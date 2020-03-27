@@ -1,2 +1,0 @@
-#ignore the following
-data/283_2_FoodWebDataBase_2018_12_10
