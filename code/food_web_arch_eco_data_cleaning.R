@@ -30,8 +30,6 @@ get_edges_and_nodes = function(all_webs){
   
   list_of_webs = list() #Create a list in which you intend to save your df's.
   
-  j = 1 #start positional iteration
-  
   web_names = sort(unique(all_webs$foodweb.name)) #get list of web names
   web_names = gsub('\\s+', '_', web_names) #remove spaces
   
@@ -41,7 +39,7 @@ get_edges_and_nodes = function(all_webs){
     web = all_webs %>% 
       filter(foodweb.name == i)
     
-    web_list = list()
+    web_list <- vector(mode = "list", length = 2)
 
     #keep variables
     web = web %>% 
@@ -78,26 +76,21 @@ get_edges_and_nodes = function(all_webs){
       distinct()
     
     #save dataframes into the list
+    sub_list_names = c(paste0(i, '_edges'), paste0(i, '_nodes')) #make web_nodes and web_edges names
     
-    sub_list_names = c(paste0(i, '_edges'), paste0(i, '_nodes'))
+    web_list[[1]] = web_edges; web_list[[2]] = web_nodes #put edges and nodes dfs in sublist
     
-    web_list[sub_list_names[1]] = assign(paste0(i, '_edges'), web_edges)
-    web_list[sub_list_names[2]] = assign(paste0(i, '_nodes'), web_nodes)
+    list_of_webs[[i]] <- web_list #assign sublist to larger list
     
-    list_of_webs[[i]] <- assign(paste0(i,'_web_list')) 
-    list_names[j] = paste0(i, '')
-    #iterate
-    j = j + 1
+    names(list_of_webs[[i]]) = sub_list_names #name sublocation 
+    
   }
-  
+
   return(list_of_webs) #Return the list of dataframes.
 }
 
 webs_nodes_and_edges = get_edges_and_nodes(all_webs = all_webs)
 
-
-
-test = webs_nodes_and_edges[[1]][[1]]
 
 
 
