@@ -25,7 +25,8 @@ all_webs$res.taxonomy = gsub('\\s+', '_', all_webs$res.taxonomy)
 #how many unique webs are there?
 sort(unique(all_webs$foodweb.name)) #290
 
-##### make an edge and node lists for all web
+##### make a function to get all edge and node lists for all webs
+
 get_edges_and_nodes = function(all_webs){
   
   list_of_webs = list() #Create a list in which you intend to save your df's.
@@ -91,6 +92,12 @@ get_edges_and_nodes = function(all_webs){
 
 webs_nodes_and_edges = get_edges_and_nodes(all_webs = all_webs)
 
+##### write all dataframes out for easy access in python
+
+path = paste0(dir, '/', names(webs_nodes_and_edges[[1]][1]), '.csv')
+temp = data.frame(webs_nodes_and_edges[[1]][1])
+colnames(temp) = c('consumer', 'resource')
+write_csv(temp, path = path)
 
 
 
