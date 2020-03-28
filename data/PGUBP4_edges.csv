@@ -1,0 +1,13 @@
+consumer,resource
+Zooplankton,Zooplankton
+Copepoda,Zooplankton
+Mytilaster_solisianus,Zooplankton
+Tanaidacea,Zooplankton
+Isopoda,Zooplankton
+Sebidae,Zooplankton
+Polychaeta,Zooplankton
+Scartella_cristata,Copepoda
+Pachygrapsus_transversus,Pachygrapsus_transversus
+Pachygrapsus_transversus,Scartella_cristata
+Microphrys_bicornutus,Polychaeta
+Polychaeta,Polychaeta

@@ -1,0 +1,16 @@
+consumer,resource
+Alitta_virens,Alitta_virens
+Hediste_diversicolor,Zooplankton
+Zooplankton,Zooplankton
+Eteone_longa,Zooplankton
+Oligochaeta,Zooplankton
+Mytilus_sp.,Zooplankton
+Gammarus_oceanicus,Zooplankton
+Eteone_longa,Eteone_longa
+Oligochaeta,Oligochaeta
+Alitta_virens,Hediste_diversicolor
+Hediste_diversicolor,Hediste_diversicolor
+Eteone_longa,Hediste_diversicolor
+Alitta_virens,Gammarus_oceanicus
+Hediste_diversicolor,Gammarus_oceanicus
+Nematoda,Nematoda

@@ -1,0 +1,6 @@
+consumer,resource,NA,NA,NA
+Zooplankton,NA,NA,0.001,marine
+Mytilus_sp.,genus,NA,0.9877,marine
+Polydora_sp.,genus,NA,2e-4,marine
+Zooplankton,NA,NA,0.001,marine
+Gammarus_oceanicus,species,NA,0.1665,marine

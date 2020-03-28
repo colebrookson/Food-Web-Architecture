@@ -1,0 +1,16 @@
+consumer,resource
+Lagopus_spec.,arthropods
+waterfowl,arthropods
+passerines,arthropods
+shorebirds,arthropods
+Canis_lupus_arctos,lemmings
+Canis_lupus_arctos,Lepus_arcticus
+Canis_lupus_arctos,Rangifer_tarandus
+Canis_lupus_arctos,Ovibos_moschatus
+Stercocarius_spec.,lemmings
+Stercocarius_spec.,arthropods
+Stercocarius_spec.,shorebirds
+Larus_spec.,lemmings
+Larus_spec.,Lepus_arcticus
+Larus_spec.,Lagopus_spec.
+Larus_spec.,waterfowl

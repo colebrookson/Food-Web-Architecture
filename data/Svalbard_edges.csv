@@ -1,0 +1,11 @@
+consumer,resource
+Lagopus_spec.,arthropods
+waterfowl,arthropods
+passerines,arthropods
+shorebirds,arthropods
+Vulpes_lagopus,waterfowl
+Vulpes_lagopus,Lagopus_spec.
+Larus_spec.,Lagopus_spec.
+Larus_spec.,shorebirds
+Larus_spec.,waterfowl
+Larus_spec.,passerines

@@ -1,0 +1,13 @@
+consumer,resource
+Tanaidacea,Zooplankton
+Zooplankton,Zooplankton
+Mytilaster_solisianus,Zooplankton
+Isopoda,Zooplankton
+Polychaeta,Zooplankton
+Stramonita_haemastoma,Mytilaster_solisianus
+Echinometra_lucunter,Malacoctenus_delalandii
+Malacoctenus_delalandii,Tanaidacea
+Malacoctenus_delalandii,Isopoda
+Malacoctenus_delalandii,Polychaeta
+Stramonita_haemastoma,Polychaeta
+Polychaeta,Polychaeta

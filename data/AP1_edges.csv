@@ -1,0 +1,11 @@
+consumer,resource
+Zooplankton,Zooplankton
+Tetraclita_stalactifera,Zooplankton
+Copepoda,Zooplankton
+Crassostrea_virginica,Zooplankton
+Colomastigidae,Zooplankton
+Sebidae,Zooplankton
+Polychaeta,Zooplankton
+Stramonita_haemastoma,Tetraclita_stalactifera
+Stramonita_haemastoma,Polychaeta
+Polychaeta,Polychaeta
