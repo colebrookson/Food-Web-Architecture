@@ -92,7 +92,61 @@ conn_pql_all_pred = conn_pql_all_pred %>%
 
 conn_pql_avg_pred = conn_pql_all_pred %>% 
   dplyr::select(avg, avg_h, avg_l) %>% 
-  mutate(ecosystem = conn_pql_1_pred$x)
+  mutate(ecosystem = conn_pql_1_pred$x) %>% 
+  mutate(agg_eco = c('terrestrial', 'aquatic', 'terrestrial', 'aquatic', 'aquatic'))
+
+conn_pql_avg_pred$ecosystem = factor(conn_pql_avg_pred$ecosystem, levels = c('terrestrial_belowground', 'streams', 'terrestrial_aboveground', 
+                                       'lakes', 'marine'),
+         labels = c('Belowground', 'Streams', 'Aboveground', 'Lakes', 'Marine'))
+
+#make some effects plots
+theme7 <- function(){
+  color.background = 'white'
+  color.grid.major = 'black'
+  color.axis.text = 'black'
+  color.axis.title = 'black'
+  color.title = 'black'
+  theme_bw(base_size = 9) + 
+    theme(panel.background = element_rect(fill=color.background,color = color.background)) +
+    theme(plot.background = element_rect(fill = color.background, color = color.background)) +
+    theme(panel.border = element_rect(colour = 'black', size = 1.5)) +
+    theme(panel.grid.major = element_blank()) + 
+    theme(panel.grid.minor = element_blank()) + 
+    theme(axis.line.x.bottom = element_line(colour = 'black', size = 1))+
+    theme(axis.line.x.top = element_line(colour = 'black', size = 1))+
+    theme(axis.line.y.left = element_line(colour = 'black', size = 1))+
+    theme(axis.line.y.right = element_line(colour = 'black', size = 1))+
+    theme(axis.ticks = element_blank()) +
+    theme(plot.title = element_text(color = color.title, size = 19, vjust = 1.25, margin = margin(t = 0, r = 0, b = 20, l = 0))) +
+    theme(axis.text.x = element_text(size = 14, color = color.axis.text, angle = 90)) + 
+    theme(axis.text.y = element_text(size = 14, color = 'black')) + 
+    theme(axis.title.x = element_text(size = 16, color = color.axis.title, vjust = 0, margin = margin(t = 17, r = 0, b = 17, l = 0))) +
+    theme(axis.title.y = element_text(size = 16, color = 'black', vjust = 1.5, margin = margin(t = 0, r = 17, b = 0, l = 17))) +
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme(strip.background = element_rect(fill = 'white', colour = 'grey70'),
+          strip.placement = 'outside',
+          strip.text = element_text(size = 10))+
+    #theme(legend.position = c(0.4,0.6)) +
+    theme(legend.text = element_text(size = 10, margin = margin(t = 0, r = 0, b = 0, l = 0)),
+          legend.title = element_text(size = 12, margin = margin(t = 0, r = 0, b = 0, l = 0)))
+          #legend.key.width= unit(4.5, 'line'),
+          #legend.key.height = unit(0.7,'line'))
+}
+
+leg_title <- 'Ecosystem \nType'
+conn_pred_plot = conn_pql_avg_pred %>% 
+  ggplot(aes(x = ecosystem, y = avg, colour = ecosystem, shape = agg_eco)) +
+  scale_shape_manual(values = c(15,17), labels = c('Aquatic', 'Terrestrial')) +
+  geom_errorbar(aes(ymin=avg_l, ymax = avg_h,width = 0), size = 0.78, colour = 'black')+
+  geom_point(size = 4.7) +
+  scale_color_manual(leg_title,values=c('#4B5320','#d0efff', '#0B6623', '#00a572', '#03254c'), 
+                     labels = c('Terrestrial, Belowground', 'Streams', 'Terrestrial, Aboveground',
+                                'Lakes', 'Marine'))+
+  labs(x = 'Ecosystem Types', y = 'Predicted Connectance') +
+  guides(shape = guide_legend(title = 'Aggregated \nEcosystem', override.aes = list(shape = c(0,2)), type = 'a')) +
+  theme7()
+  #scale_y_continuous(limits = c(0,1.5), breaks = c(0.5,1.0,1.5))+
+ # fte_theme1()
 
 
 
