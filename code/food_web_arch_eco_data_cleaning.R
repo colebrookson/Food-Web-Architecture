@@ -46,7 +46,7 @@ get_edges_and_nodes = function(all_webs){
     web = web %>% 
       select(autoID, interaction.type, con.taxonomy, con.taxonomy.level, con.lifestage, 
              con.mass.mean.g., res.taxonomy, res.taxonomy.level, res.lifestage,
-             res.mass.mean.g., ecosystem.type)
+             res.mass.mean.g., ecosystem.type, interaction.dimensionality)
     
     #only keep the consumptive predatory interactions (no herbivores)
     web = web %>% 
@@ -59,15 +59,18 @@ get_edges_and_nodes = function(all_webs){
              taxonomy_level = res.taxonomy.level,
              lifestage = res.lifestage,
              mean_mass = res.mass.mean.g.,
-             ecosystems = ecosystem.type)
-    web_con_node = web[,c(3:6,11)] %>% 
+             ecosystems = ecosystem.type,
+             dimensions = interaction.dimensionality)
+    web_con_node = web[,c(3:6,11,12)] %>% 
       distinct() %>% 
       rename(species = con.taxonomy,
              taxonomy_level = con.taxonomy.level,
              lifestage = con.lifestage,
              mean_mass = con.mass.mean.g.,
-             ecosystems = ecosystem.type)
+             ecosystems = ecosystem.type,
+             dimensions = interaction.dimensionality)
     web_nodes = rbind(web_res_node, web_con_node)
+    web_nodes$dimensions = as.integer(substr(web_nodes$dimensions,1,1))
     
     #make edge list
     web_edges = web %>% 
@@ -106,8 +109,48 @@ for(i in 1:length(webs_nodes_and_edges)) {
   }
 }
 
+##### calculate metrics for all the webs
 
+#### maybe calculate degree distributions for each one and then an aggregated ecosystem version 
+#### maybe also calculate network diameter 
+#### look at clustering coefficient (global,  cc2 = (3Nt)/(Nc)) where Nt is the number of triangles in graph G and Nc is the number of three-node subgraphs
+#### or maybe do modularity instead
+#### look at nestedness as well 
+#### look at intervality 
+#### look at all the values of centrality
 
+#make initial dataframe
+web_metrics = data.frame(sort(unique(all_webs$foodweb.name))) 
+web_metrics = web_metrics %>% 
+  rename(webs = names(web_metrics))
+
+connectance = vector(mode = 'numeric', length = 290) #initialize vector to store connectance values in
+ecosystem = vector(mode = 'character', length = 290) #initialize vector to store ecosystem type values in
+mean_body_size = vector(mode = 'numeric', length = 290) #initialize vector to store mean body size values in
+mean_dimension = vector(mode = 'numeric', length = 290) #initialize vector to store mean dimension in
+
+for(i in 1:length(webs_nodes_and_edges)) {
+  
+  df_edges = webs_nodes_and_edges[[i]][[1]]
+  df_nodes = webs_nodes_and_edges[[i]][[2]]
+  
+  ## Connectance
+  #taking from Delmas et al. (2017) - C = L/m, where m = S((S+1)/2) (undirected network where species can interact with themselves)
+  L = nrow(df_edges)
+  S = nrow(df_nodes)
+  m = (S*((S+1)/2))
+  connectance[i] = L/m
+  
+  ## Values from web
+  ecosystem[i] = df_nodes$ecosystems[1]
+  mean_body_size[i] = mean(df_nodes$mean_mass)
+  mean_dimension[i] = mean(df_nodes$dimension)
+  
+  
+  
+}
+
+web_metrics$connectance = connectance
 
 
 
