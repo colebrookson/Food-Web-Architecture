@@ -180,6 +180,7 @@ for(i in 1:nrow(web_metrics)) {
 }
 
 #check evenness of sampling across the ecosystems
+web_metrics$ecosystem = gsub('\\s+', '_', web_metrics$ecosystem)
 table(web_metrics$ecosystem) #definitely a marine/aquatic bias
 
 
