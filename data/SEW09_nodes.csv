@@ -17,7 +17,7 @@ Dendrobaena_octaedra,species,adults,0.146111111,terrestrial belowground,2
 Deuteraphorura_inermis,species,adults,8.45e-6,terrestrial belowground,2
 Diplocephalus_picinus,species,adults,0.001612679,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Euophrys_frontalis,species,adults,0.00313298,terrestrial belowground,2
 Euophrys_herbigrada,species,adults,0.004108892,terrestrial belowground,2
 flagellates,NA,NA,3.63e-7,terrestrial belowground,NA
@@ -102,7 +102,7 @@ Parisotoma_notabilis,species,adults,2.41e-6,terrestrial belowground,NA
 Dendrobaena_octaedra,species,adults,0.146111111,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Tachyusa_sp._(juv),genus,juveniles,1.98338e-4,terrestrial belowground,2
 Hypoaspis_aculeifer,species,adults,4.51e-5,terrestrial belowground,2
 Macrocheles_cf._opacus_aciculatus,species,adults,5.2e-5,terrestrial belowground,2

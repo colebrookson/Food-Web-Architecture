@@ -31,7 +31,7 @@ Diplocephalus_latifrons,species,adults,6.72299e-4,terrestrial belowground,2
 Dissorhina_ornata,species,adults,1.17e-5,terrestrial belowground,2
 Elateridae_sp.,family,adults,0.02957777,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Erigonella_hiemalis,species,adults,0.001322539,terrestrial belowground,2
 flagellates,NA,NA,3.63e-7,terrestrial belowground,NA
 Folsomia_quadrioculata,species,adults,5.41e-6,terrestrial belowground,2
@@ -157,7 +157,7 @@ Aporrectodea_rosea,species,adults,0.219642857,terrestrial belowground,NA
 Aporrectodea_rosea_(juv),species,juveniles,0.085811429,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Lumbricus_rubellus_{xxl},species,adults,0.921851852,terrestrial belowground,NA
 Lumbricus_rubellus_(juv)_{xxl},species,juveniles,0.32269697,terrestrial belowground,NA
 Octolasion_tyrtaeum{xxxl},species,adults,2.000714286,terrestrial belowground,NA

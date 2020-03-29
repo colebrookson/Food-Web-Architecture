@@ -33,7 +33,7 @@ Dissorhina_ornata,species,adults,1.17e-5,terrestrial belowground,2
 Edwarzetes_edwardsii,species,adults,1.25913e-4,terrestrial belowground,2
 Elateridae_sp.,family,adults,0.02957777,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Ero_furcata,species,adults,0.007883579,terrestrial belowground,2
 Eulohmannia_ribagai,species,adults,8.7e-5,terrestrial belowground,2
 Euophrys_frontalis,species,adults,0.00313298,terrestrial belowground,2
@@ -195,7 +195,7 @@ Xenyella_sp.,genus,adults,1.46e-5,terrestrial belowground,NA
 Chamobates_borealis,species,adults,1.99e-5,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Lumbricus_terrestris_(juv)_{xxl},species,juveniles,0.48375,terrestrial belowground,NA
 Atheta_sp._(juv),genus,juveniles,1.75231e-4,terrestrial belowground,2
 Linyphiidae_cf_Erigoniinae_(juv)_{m},family,juveniles,2.20271e-4,terrestrial belowground,2

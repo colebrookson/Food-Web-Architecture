@@ -31,7 +31,7 @@ Dicyrtomina_ornata,species,adults,2.68e-5,terrestrial belowground,2
 Diplocephalus_picinus,species,adults,0.001612679,terrestrial belowground,2
 Discus_rotundatus_(juv),species,juveniles,0.003997226,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Eulohmannia_ribagai,species,adults,8.7e-5,terrestrial belowground,2
 flagellates,NA,NA,3.63e-7,terrestrial belowground,NA
 Folsomia_quadrioculata,species,adults,5.41e-6,terrestrial belowground,2
@@ -142,7 +142,7 @@ Aporrectodea_rosea,species,adults,0.219642857,terrestrial belowground,NA
 Chamobates_borealis,species,adults,1.99e-5,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Diplocephalus_picinus,species,adults,0.001612679,terrestrial belowground,2
 Micrargus_herbigradus,species,adults,0.001961535,terrestrial belowground,2
 Clubionidae_(juv),family,juveniles,0.003435355,terrestrial belowground,2

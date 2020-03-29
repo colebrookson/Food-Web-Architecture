@@ -112,26 +112,26 @@ Pardosa_sp.,genus,adults,0.01040481,terrestrial aboveground,2
 Capitella_capitata,species,adults,0.00288468,terrestrial aboveground,NA
 Polydora_nuchalis,species,adults,0.00323541,terrestrial aboveground,NA
 Ephydra,NA,adults,0.03373598,terrestrial aboveground,2
-Epipellic_flora,NA,adults,-999,marine,NA
-Hemiuridae,family,cercaria,-999,terrestrial aboveground,NA
-Hysterolecitha_trilocalis,species,cercaria,-999,terrestrial aboveground,NA
-unk_a/sm_meso,NA,cercaria,-999,terrestrial aboveground,NA
-unk_c,NA,cercaria,-999,terrestrial aboveground,NA
-Phytoplankton,NA,adults,-999,marine,NA
-Phytoplankton,NA,adults,-999,terrestrial aboveground,NA
-Epipellic_flora,NA,adults,-999,terrestrial aboveground,NA
-Macroalgae,NA,adults,-999,terrestrial aboveground,2
-Mytilus_galloprovincialis,species,adults,-999,terrestrial aboveground,2
-Salicornia_virginica,species,adults,-999,terrestrial aboveground,NA
-Trematode,NA,cercaria,-999,marine,NA
-Macroalgae,NA,adults,-999,marine,2
-unk_c,NA,cercaria,-999,marine,NA
-Distichlis_spicata,species,adults,-999,terrestrial aboveground,NA
-Frankenia_salina,species,adults,-999,terrestrial aboveground,2
-Jaumea_carnosa,species,adults,-999,terrestrial aboveground,2
-Limonium_californicum,species,adults,-999,terrestrial aboveground,2
-Monanthocloe_littoralis,species,adults,-999,terrestrial aboveground,NA
-Cordylanthus_maritimus,species,adults,-999,terrestrial aboveground,2
+Epipellic_flora,NA,adults,NA,marine,NA
+Hemiuridae,family,cercaria,NA,terrestrial aboveground,NA
+Hysterolecitha_trilocalis,species,cercaria,NA,terrestrial aboveground,NA
+unk_a/sm_meso,NA,cercaria,NA,terrestrial aboveground,NA
+unk_c,NA,cercaria,NA,terrestrial aboveground,NA
+Phytoplankton,NA,adults,NA,marine,NA
+Phytoplankton,NA,adults,NA,terrestrial aboveground,NA
+Epipellic_flora,NA,adults,NA,terrestrial aboveground,NA
+Macroalgae,NA,adults,NA,terrestrial aboveground,2
+Mytilus_galloprovincialis,species,adults,NA,terrestrial aboveground,2
+Salicornia_virginica,species,adults,NA,terrestrial aboveground,NA
+Trematode,NA,cercaria,NA,marine,NA
+Macroalgae,NA,adults,NA,marine,2
+unk_c,NA,cercaria,NA,marine,NA
+Distichlis_spicata,species,adults,NA,terrestrial aboveground,NA
+Frankenia_salina,species,adults,NA,terrestrial aboveground,2
+Jaumea_carnosa,species,adults,NA,terrestrial aboveground,2
+Limonium_californicum,species,adults,NA,terrestrial aboveground,2
+Monanthocloe_littoralis,species,adults,NA,terrestrial aboveground,NA
+Cordylanthus_maritimus,species,adults,NA,terrestrial aboveground,2
 renic,NA,cercaria,9.24e-8,terrestrial aboveground,NA
 Renicola_sp.,genus,cercaria,4.95e-7,terrestrial aboveground,NA
 Parvatrema_sp.,genus,cercaria,8.27e-7,terrestrial aboveground,NA
@@ -168,8 +168,8 @@ Saxidomus_nuttalli,species,larvae,3.63e-5,marine,3
 Tagelus_affinis,species,larvae,3.63e-5,marine,3
 Tagelus_californianus,species,larvae,3.63e-5,marine,3
 Tagelus_subteres,species,larvae,3.63e-5,marine,3
-Marine_detritus,NA,NA,-999,terrestrial aboveground,NA
-Trematode,NA,cercaria,-999,terrestrial aboveground,NA
+Marine_detritus,NA,NA,NA,terrestrial aboveground,NA
+Trematode,NA,cercaria,NA,terrestrial aboveground,NA
 Austrobilharzia_sp.,genus,cercaria,3.33e-7,marine,NA
 Parvatrema_sp.,genus,cercaria,8.27e-7,marine,NA
 Cloacitrema_michiganiensis,species,cercaria,1.31e-6,marine,NA
@@ -280,7 +280,7 @@ Foraminifera,NA,adults,2.43e-5,marine,NA
 Capitella_capitata,species,larvae,3.37e-5,marine,NA
 Polydora_nuchalis,species,larvae,3.37e-5,marine,NA
 Cryptomya_californica,species,adults,0.35478198,terrestrial aboveground,NA
-Mytilus_galloprovincialis,species,adults,-999,terrestrial aboveground,NA
+Mytilus_galloprovincialis,species,adults,NA,terrestrial aboveground,NA
 Cryptomya_californica,species,larvae,3.63e-5,marine,NA
 Mytilus_galloprovincialis,species,larvae,3.63e-5,marine,NA
 Acteocina_inculta,species,adults,0.00735517,marine,NA

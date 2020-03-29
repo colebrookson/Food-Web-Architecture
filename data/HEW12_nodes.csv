@@ -31,7 +31,7 @@ Diplocephalus_picinus,species,adults,0.001612679,terrestrial belowground,2
 Dissorhina_ornata,species,adults,1.17e-5,terrestrial belowground,2
 Domene_scabricollis,species,adults,0.003846051,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Epicrius_sp._(juv),genus,juveniles,3.7e-6,terrestrial belowground,2
 Eupelops_plicatus,species,adults,7.89e-5,terrestrial belowground,2
 flagellates,NA,NA,3.63e-7,terrestrial belowground,NA
@@ -158,7 +158,7 @@ Megalothorax_minimus,species,adults,1.52e-5,terrestrial belowground,NA
 Parisotoma_notabilis,species,adults,2.41e-6,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Aporrectodea_caliginosa_(juv)_{xxxl},species,juveniles,0.207777778,terrestrial belowground,NA
 Domene_scabricollis,species,adults,0.003846051,terrestrial belowground,2
 Geostiba_circellaris,species,adults,0.001056938,terrestrial belowground,2

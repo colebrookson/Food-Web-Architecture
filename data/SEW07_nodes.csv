@@ -31,7 +31,7 @@ Deuteraphorura_inermis,species,adults,8.45e-6,terrestrial belowground,2
 Diplocephalus_picinus,species,adults,0.001612679,terrestrial belowground,2
 Elater_ferrugineus_(juv),species,juveniles,0.002128679,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 flagellates,NA,NA,3.63e-7,terrestrial belowground,NA
 Folsomia_brevicauda,species,adults,5.41e-6,terrestrial belowground,2
 Folsomia_quadrioculata,species,adults,5.41e-6,terrestrial belowground,2
@@ -150,7 +150,7 @@ Megalothorax_minimus,species,adults,1.52e-5,terrestrial belowground,NA
 Parisotoma_notabilis,species,adults,2.41e-6,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Ceratophysella_sp.,genus,adults,5.96e-6,terrestrial belowground,NA
 Othius_sp._(juv)_{m},genus,juveniles,0.002792224,terrestrial belowground,2
 Liocranidae_sp._(juv),family,juveniles,0.002874279,terrestrial belowground,2

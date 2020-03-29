@@ -38,7 +38,7 @@ Discus_rotundatus_(juv),species,juveniles,0.003997226,terrestrial belowground,2
 Dissorhina_ornata,species,adults,1.17e-5,terrestrial belowground,2
 Elateridae_sp.,family,adults,0.02957777,terrestrial belowground,2
 Elateridae_sp1_(juv)_{m},family,juveniles,2.83672e-4,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Epicrius_canestrinii,species,adults,2.2e-5,terrestrial belowground,2
 Eulohmannia_ribagai,species,adults,8.7e-5,terrestrial belowground,2
 Euophrys_frontalis,species,adults,0.00313298,terrestrial belowground,2
@@ -182,7 +182,7 @@ Octolasion_tyrtaeum{xxl},species,adults,0.495,terrestrial belowground,NA
 Dendrobaena_octaedra_(juv),species,juveniles,0.05,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Anelasmocephalus_cambridgei,species,adults,0.008190923,terrestrial belowground,2
 Gamasina_sp._(juv),family,juveniles,5.62e-6,terrestrial belowground,2
 Quedius_sp._(juv),genus,juveniles,0.002088641,terrestrial belowground,2

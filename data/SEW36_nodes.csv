@@ -12,7 +12,7 @@ Carabidae_sp.,family,adults,0.065971077,terrestrial belowground,2
 Ceratophysella_denticulata,species,adults,5.96e-6,terrestrial belowground,2
 ciliates,NA,NA,2.63e-9,terrestrial belowground,NA
 Damaeus_riparius,species,adults,2.16929e-4,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Eupelops_hirtus,species,adults,2.41607e-4,terrestrial belowground,2
 flagellates,NA,NA,3.63e-7,terrestrial belowground,NA
 Folsomia_quadrioculata,species,adults,5.41e-6,terrestrial belowground,2
@@ -96,7 +96,7 @@ Megalothorax_minimus,species,adults,1.52e-5,terrestrial belowground,NA
 Parisotoma_notabilis,species,adults,2.41e-6,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Lumbricus_rubellus_{xxl},species,adults,0.921851852,terrestrial belowground,NA
 Atheta_sp._(juv),genus,juveniles,1.75231e-4,terrestrial belowground,2
 Linyphiidae_cf_Erigoniinae_(juv)_{m},family,juveniles,2.20271e-4,terrestrial belowground,2

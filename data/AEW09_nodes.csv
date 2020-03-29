@@ -30,7 +30,7 @@ Discus_rotundatus,species,adults,0.007771684,terrestrial belowground,2
 Discus_rotundatus_(juv),species,juveniles,0.003997226,terrestrial belowground,2
 Dissorhina_ornata,species,adults,1.17e-5,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Entomobryidae_(juv),family,juveniles,6.75e-6,terrestrial belowground,2
 Epicrius_canestrinii,species,adults,2.2e-5,terrestrial belowground,2
 flagellates,NA,NA,3.63e-7,terrestrial belowground,NA
@@ -152,7 +152,7 @@ Lumbricus_sp._(juv),genus,juveniles,0.07282,terrestrial belowground,NA
 Lumbricus_terrestris,species,adults,6.054848485,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Octolasion_tyrtaeum_(juv)_{xxl},species,juveniles,0.378272222,terrestrial belowground,NA
 Malthodes_sp._(juv),genus,juveniles,0.004000437,terrestrial belowground,2
 Atheta_fungi,species,adults,6.9019e-4,terrestrial belowground,2

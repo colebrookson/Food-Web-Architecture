@@ -25,7 +25,7 @@ Dicymbium_brevisetosum,species,adults,0.001076934,terrestrial belowground,2
 Diplocephalus_picinus,species,adults,0.001612679,terrestrial belowground,2
 Discus_rotundatus_(juv),species,juveniles,0.003997226,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Enoplognatha_ovata,species,adults,0.011622672,terrestrial belowground,2
 Erigonella_hiemalis,species,adults,0.001322539,terrestrial belowground,2
 Eulohmannia_ribagai,species,adults,8.7e-5,terrestrial belowground,2
@@ -119,7 +119,7 @@ Dendrobaena_octaedra,species,adults,0.146111111,terrestrial belowground,NA
 Chamobates_borealis,species,adults,1.99e-5,terrestrial belowground,NA
 predacious_nematodes,NA,NA,3.56e-6,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Notiophilus_rufipes_(juv),species,juveniles,0.003606752,terrestrial belowground,2
 Atheta_fungi,species,adults,6.9019e-4,terrestrial belowground,2
 Atheta_sp.,genus,adults,7.43498e-4,terrestrial belowground,2

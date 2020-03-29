@@ -27,7 +27,7 @@ Damaeus_auritus,species,adults,1.54429e-4,terrestrial belowground,2
 Diplocephalus_picinus,species,adults,0.001612679,terrestrial belowground,2
 Elateridae_sp.,family,adults,0.02957777,terrestrial belowground,2
 Elateridae_sp1_(juv)_{l},family,juveniles,0.01092301,terrestrial belowground,2
-Enchytraeidae,family,NA,-999,terrestrial belowground,2
+Enchytraeidae,family,NA,NA,terrestrial belowground,2
 Erotylidae_sp.,family,adults,0.001337558,terrestrial belowground,2
 Eupelops_torulosus,species,adults,9.55e-5,terrestrial belowground,2
 Euryopis_flavomaculata,species,adults,0.006459925,terrestrial belowground,2
@@ -142,7 +142,7 @@ Lathrobium_sp._(juv),genus,juveniles,4.47918e-4,terrestrial belowground,2
 Ceratophysella_sp.,genus,adults,5.96e-6,terrestrial belowground,NA
 Dendrobaena_octaedra,species,adults,0.146111111,terrestrial belowground,NA
 Dendrodrilus_rubidus,species,adults,0.1,terrestrial belowground,NA
-Enchytraeidae,family,NA,-999,terrestrial belowground,NA
+Enchytraeidae,family,NA,NA,terrestrial belowground,NA
 Isotomiella_minor,species,adults,3.27e-6,terrestrial belowground,NA
 Megalothorax_minimus,species,adults,1.52e-5,terrestrial belowground,NA
 omnivorous_nematodes,NA,NA,6.02e-5,terrestrial belowground,NA
