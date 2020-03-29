@@ -11,7 +11,8 @@ all_webs_spec = spec_csv('283_2_FoodWebDataBase_2018_12_10.csv') #test how read 
 all_webs_spec
 
 all_webs = read_csv('283_2_FoodWebDataBase_2018_12_10.csv', 
-                    guess_max = 222151)
+                    guess_max = 222151,
+                    na = c('-999', 'NA', 'NaN', 'nan'))
 
 #look at the data
 head(all_webs)
@@ -120,7 +121,7 @@ for(i in 1:length(webs_nodes_and_edges)) {
 #### look at all the values of centrality
 
 #make initial dataframe
-web_metrics = data.frame(sort(unique(all_webs$foodweb.name))) 
+web_metrics = data.frame(sort(unique(web_names))) 
 web_metrics = web_metrics %>% 
   rename(webs = names(web_metrics))
 
@@ -128,8 +129,8 @@ connectance = vector(mode = 'numeric', length = 290) #initialize vector to store
 ecosystem = vector(mode = 'character', length = 290) #initialize vector to store ecosystem type values in
 mean_body_size = vector(mode = 'numeric', length = 290) #initialize vector to store mean body size values in
 mean_dimension = vector(mode = 'numeric', length = 290) #initialize vector to store mean dimension in
-
-for(i in 1:length(webs_nodes_and_edges)) {
+j = 1
+for(i in sort(unique(web_names))) {
   
   df_edges = webs_nodes_and_edges[[i]][[1]]
   df_nodes = webs_nodes_and_edges[[i]][[2]]
@@ -139,18 +140,21 @@ for(i in 1:length(webs_nodes_and_edges)) {
   L = nrow(df_edges)
   S = nrow(df_nodes)
   m = (S*((S+1)/2))
-  connectance[i] = L/m
+  connectance[j] = L/m
   
   ## Values from web
-  ecosystem[i] = df_nodes$ecosystems[1]
-  mean_body_size[i] = mean(df_nodes$mean_mass)
-  mean_dimension[i] = mean(df_nodes$dimension)
+  ecosystem[j] = df_nodes$ecosystems[1]
+  mean_body_size[j] = mean(df_nodes$mean_mass, )
+  mean_dimension[j] = mean(df_nodes$dimensions)
   
-  
+  j = j+1
   
 }
 
 web_metrics$connectance = connectance
+web_metrics$ecosystem = ecosystem
+web_metrics$mean_body_size = mean_body_size
+web_metrics$mean_dimension = mean_dimension
 
 
 
