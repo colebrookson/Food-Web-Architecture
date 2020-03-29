@@ -98,18 +98,18 @@ get_edges_and_nodes = function(all_webs){
 webs_nodes_and_edges = get_edges_and_nodes(all_webs = all_webs)
 
 ##### write all dataframes out for easy access in python
-for(i in 1:length(webs_nodes_and_edges)) {
-  for(j in 1:2) {
-    
-    path = paste0(dir, '/', names(webs_nodes_and_edges[[i]][j]), '.csv') #get write path
-    
-    temp = data.frame(webs_nodes_and_edges[[i]][j]) #make temp dataframe for writing
-    
-    colnames(temp) = c('consumer', 'resource') #reassign column names
-    
-    write_csv(temp, path = path) #write file
-  }
-}
+# for(i in 1:length(webs_nodes_and_edges)) {
+#   for(j in 1:2) {
+#     
+#     path = paste0(dir, '/', names(webs_nodes_and_edges[[i]][j]), '.csv') #get write path
+#     
+#     temp = data.frame(webs_nodes_and_edges[[i]][j]) #make temp dataframe for writing
+#     
+#     colnames(temp) = c('consumer', 'resource') #reassign column names
+#     
+#     write_csv(temp, path = path) #write file
+#   }
+# }
 
 ##### calculate metrics for all the webs
 
@@ -122,6 +122,7 @@ for(i in 1:length(webs_nodes_and_edges)) {
 #### look at all the values of centrality
 
 #make initial dataframe
+web_names = sort(unique(all_webs$foodweb.name))
 web_metrics = data.frame(sort(unique(web_names))) 
 web_metrics = web_metrics %>% 
   rename(webs = names(web_metrics))
@@ -158,13 +159,29 @@ web_metrics$ecosystem = ecosystem
 web_metrics$mean_body_size = mean_body_size
 web_metrics$mean_dimension = mean_dimension
 
+#note: South_Lake web is apparently empty ---- check why and remove if necessary
+webs_nodes_and_edges[['South_Lake']] #these dataframes are empty
+south_lake = all_webs %>% 
+  filter(foodweb.name == 'South_Lake') 
+unique(south_lake$interaction.type) #all herbivorous - so remove this from the data frame
+
+web_metrics = web_metrics %>% 
+  filter(web_names != 'South_Lake')
+
 #add aggregated ecosystems
 web_metrics$agg_ecosystem = '' 
-
+unique(web_metrics$ecosystem)
 for(i in 1:nrow(web_metrics)) {
   web_metrics$agg_ecosystem[i] = ifelse(web_metrics$ecosystem[i] == 'terrestrial aboveground', 'terrestrial', 
-                                        ifelse(web_metrics$ecosystem[i] == 'terrestrial belowground', 'terrestrial'))
+                                        ifelse(web_metrics$ecosystem[i] == 'terrestrial belowground', 'terrestrial',
+                                               ifelse(web_metrics$ecosystem[i] == 'streams', 'aquatic',
+                                                      ifelse(web_metrics$ecosystem[i] == 'marine', 'aquatic',
+                                                             ifelse(web_metrics$ecosystem[i] == 'lakes', 'aquatic',NA)))))
 }
+
+#check evenness of sampling across the ecosystems
+table(web_metrics$ecosystem) #definitely a marine/aquatic bias
+
 
 
 
