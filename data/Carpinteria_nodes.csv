@@ -1,275 +1,343 @@
-consumer,resource,NA,NA,NA
-Harpacticoida,order,adults,5.17e-6,terrestrial aboveground
-Oligochaeta,Class,adults,0.00114,terrestrial aboveground
-Nemertean,NA,adults,0.00162242,terrestrial aboveground
-green_gammaridean,NA,adults,0.00461043,terrestrial aboveground
-Carinoma_mutabilis,species,adults,0.00192876,terrestrial aboveground
-Oniscidea,NA,adults,0.00242802,terrestrial aboveground
-Culex_tarsalis,species,larvae,0.00217,terrestrial aboveground
-Capitella_capitata,species,adults,0.00288468,terrestrial aboveground
-Aedes_taeniorhynchus,species,larvae,0.0025,terrestrial aboveground
-Polydora_nuchalis,species,adults,0.00323541,terrestrial aboveground
-Traskorchestia_traskiana,species,adults,0.00360519,terrestrial aboveground
-Trichocorixia_sp.,genus,adults,0.00360519,terrestrial aboveground
-Corophiidae,family,adults,0.00573086,terrestrial aboveground
-Pygidiopsoides_spindalis,species,cercaria,5.31e-8,terrestrial aboveground
-Acteocina_inculta,species,adults,0.00735517,terrestrial aboveground
-Assiminea_californica,species,adults,0.00201946,terrestrial aboveground
-Diptera,NA,larvae,0.00685528,terrestrial aboveground
-Diptera,NA,adults,0.00942176,terrestrial aboveground
-Renicola_cerithidicola,species,cercaria,9.24e-8,terrestrial aboveground
-Maritrema_sp.,genus,cercaria,1.07e-7,terrestrial aboveground
-Diptera,NA,pupa,0.00942176,terrestrial aboveground
-Microphallidae,family,cercaria,1.2e-7,terrestrial aboveground
-Probolocoryphe_species_A,genus,cercaria,1.48e-7,terrestrial aboveground
-Cyathocotylidae,family,cercaria,2.59e-7,terrestrial aboveground
-Ephydra,NA,adults,0.03373598,terrestrial aboveground
-Phocitremoides_ovale,species,cercaria,2.97e-7,terrestrial aboveground
-Austrobilharzia_sp.,genus,cercaria,3.33e-7,terrestrial aboveground
-Euhaplorchis_californiensis,species,cercaria,4.26e-7,terrestrial aboveground
-Clevelandia_ios,species,adults,0.3380892,terrestrial aboveground
-green_gammaridean,NA,adults,0.00461043,marine
-Corophiidae,family,adults,0.00573086,marine
-Ephydra,genus,larvae,0.0449813,terrestrial aboveground
-Ephydra,genus,pupa,0.0449813,terrestrial aboveground
-Traskorchestia_traskiana,species,adults,0.00360519,marine
-Trichocorixia_sp.,genus,adults,0.00360519,marine
-Mesostephanus_appendiculatus,species,cercaria,6.28e-7,terrestrial aboveground
-Stictodora_hancocki,species,cercaria,6.28e-7,terrestrial aboveground
-Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground
-Fundulus_parvipinnis,species,adults,0.50501708,terrestrial aboveground
-Clevelandia_ios,species,adults,0.3380892,marine
-Uca_crenulata,species,adults,1.86130374,terrestrial aboveground
-Diptera,NA,larvae,0.00685528,marine
-Fundulus_parvipinnis,species,adults,0.50501708,marine
-Renicola_buchanani,species,cercaria,1.36e-6,terrestrial aboveground
-Atherinops_affinis,species,adults,2.59261677,terrestrial aboveground
-Cryptomya_californica,species,adults,0.35478198,terrestrial aboveground
-Melampus_olivaceus,species,adults,0.21034532,terrestrial aboveground
-Catatropis_johnstoni,species,cercaria,2.66e-6,terrestrial aboveground
-Hemigrapsus_oregonensis,species,adults,1.16850119,marine
-Cerithidea_californica,species,adults,1.2137299,terrestrial aboveground
-Pachygrapsus_crassipes,species,adults,8.2920462,terrestrial aboveground
-Uca_crenulata,species,adults,1.86130374,marine
-Cymatogaster_aggregata,species,adults,3.67831145,terrestrial aboveground
-Atherinops_affinis,species,adults,2.59261677,marine
-Oligochaeta,Class,adults,0.00114,marine
-Ephydra,genus,larvae,0.0449813,marine
-Ephydra,genus,pupa,0.0449813,marine
-Cymatogaster_aggregata,species,adults,3.67831145,marine
-Nemertean,NA,adults,0.00162242,marine
-Neotrypaea_californiensis,species,adults,4.74904783,marine
-Carinoma_mutabilis,species,adults,0.00192876,marine
-Assiminea_californica,species,adults,0.00201946,marine
-Culex_tarsalis,species,larvae,0.00217,marine
-Aedes_taeniorhynchus,species,larvae,0.0025,marine
-Tagelus_affinis,species,adults,6.5695182,marine
-Neotrypaea_californiensis,species,adults,4.74904783,terrestrial aboveground
-Macoma_nasuta,species,adults,6.59637917,marine
-Capitella_capitata,species,adults,0.00288468,marine
-Upogebia_macginitieorum,species,adults,8.1941841,marine
-Pachygrapsus_crassipes,species,adults,8.2920462,marine
-Polydora_nuchalis,species,adults,0.00323541,marine
-Tagelus_affinis,species,adults,6.5695182,terrestrial aboveground
-Macoma_nasuta,species,adults,6.59637917,terrestrial aboveground
-Tagelus_subteres,species,adults,9.80811218,marine
-Gillichthys_mirabilis,species,adults,19.4152654,terrestrial aboveground
-Upogebia_macginitieorum,species,adults,8.1941841,terrestrial aboveground
-Hypsopsetta_guttulata,species,adults,24.6492672,terrestrial aboveground
-Tagelus_subteres,species,adults,9.80811218,terrestrial aboveground
-Acanthogobius_flavimanus,species,adults,26.9388716,terrestrial aboveground
-Leptocottus_armatus,species,adults,28.5679949,terrestrial aboveground
-Protothaca_staminea,species,adults,18.652076,marine
-Acteocina_inculta,species,adults,0.00735517,marine
-Paralichthys_californicus,species,adults,35.3681077,terrestrial aboveground
-Gillichthys_mirabilis,species,adults,19.4152654,marine
-Tagelus_californianus,species,adults,20.0794771,marine
-Charadrius_vociferus,species,adults,95,terrestrial aboveground
-Hypsopsetta_guttulata,species,adults,24.6492672,marine
-Protothaca_staminea,species,adults,18.652076,terrestrial aboveground
-Macoma_secta,species,adults,26.0738713,marine
-Tagelus_californianus,species,adults,20.0794771,terrestrial aboveground
-Leptocottus_armatus,species,adults,28.5679949,marine
-Paralichthys_californicus,species,adults,35.3681077,marine
-Macoma_secta,species,adults,26.0738713,terrestrial aboveground
-Nuttallia_nuttallii,species,adults,44.6619368,marine
-Nuttallia_nuttallii,species,adults,44.6619368,terrestrial aboveground
-Calidris_minutilla,species,adults,20.9,terrestrial aboveground
-Calidris_mauri,species,adults,24.2,terrestrial aboveground
-Fulica_americana,species,adults,650,terrestrial aboveground
-Saxidomus_nuttalli,species,adults,152.991665,marine
-Actitis_macularia,species,adults,44.1,terrestrial aboveground
-Calidris_alpina,species,adults,51.45,terrestrial aboveground
-Saxidomus_nuttalli,species,adults,152.991665,terrestrial aboveground
-Anas_platyrhynchos,species,adults,1186.5,terrestrial aboveground
-Acanthogobius_flavimanus,species,adults,26.9388716,marine
-Pardosa_sp.,genus,adults,0.01040481,terrestrial aboveground
-Epipellic_flora,NA,adults,-999,marine
-Hemiuridae,family,cercaria,-999,terrestrial aboveground
-Hysterolecitha_trilocalis,species,cercaria,-999,terrestrial aboveground
-unk_a/sm_meso,NA,cercaria,-999,terrestrial aboveground
-unk_c,NA,cercaria,-999,terrestrial aboveground
-Phytoplankton,NA,adults,-999,marine
-Phytoplankton,NA,adults,-999,terrestrial aboveground
-Epipellic_flora,NA,adults,-999,terrestrial aboveground
-Macroalgae,NA,adults,-999,terrestrial aboveground
-Mytilus_galloprovincialis,species,adults,-999,terrestrial aboveground
-Salicornia_virginica,species,adults,-999,terrestrial aboveground
-Trematode,NA,cercaria,-999,marine
-Macroalgae,NA,adults,-999,marine
-unk_c,NA,cercaria,-999,marine
-Distichlis_spicata,species,adults,-999,terrestrial aboveground
-Frankenia_salina,species,adults,-999,terrestrial aboveground
-Jaumea_carnosa,species,adults,-999,terrestrial aboveground
-Limonium_californicum,species,adults,-999,terrestrial aboveground
-Monanthocloe_littoralis,species,adults,-999,terrestrial aboveground
-Cordylanthus_maritimus,species,adults,-999,terrestrial aboveground
-renic,NA,cercaria,9.24e-8,terrestrial aboveground
-Renicola_sp.,genus,cercaria,4.95e-7,terrestrial aboveground
-Parvatrema_sp.,genus,cercaria,8.27e-7,terrestrial aboveground
-Cloacitrema_michiganiensis,species,cercaria,1.31e-6,terrestrial aboveground
-Acanthoparyphium_spinulosum,species,cercaria,2.21e-6,terrestrial aboveground
-Parorchis_acanthus,species,cercaria,2.36e-6,terrestrial aboveground
-Himasthla_B,NA,cercaria,4.19e-6,terrestrial aboveground
-Himasthla_rhigedana,species,cercaria,6.18e-6,terrestrial aboveground
-Foraminifera,NA,adults,2.43e-5,terrestrial aboveground
-Capitella_capitata,species,larvae,3.37e-5,terrestrial aboveground
-Polydora_nuchalis,species,larvae,3.37e-5,terrestrial aboveground
-Cryptomya_californica,species,larvae,3.63e-5,terrestrial aboveground
-Macoma_nasuta,species,larvae,3.63e-5,terrestrial aboveground
-Macoma_secta,species,larvae,3.63e-5,terrestrial aboveground
-Mytilus_galloprovincialis,species,larvae,3.63e-5,terrestrial aboveground
-Nuttallia_nuttallii,species,larvae,3.63e-5,terrestrial aboveground
-Protothaca_staminea,species,larvae,3.63e-5,terrestrial aboveground
-Saxidomus_nuttalli,species,larvae,3.63e-5,terrestrial aboveground
-Tagelus_affinis,species,larvae,3.63e-5,terrestrial aboveground
-Tagelus_californianus,species,larvae,3.63e-5,terrestrial aboveground
-Tagelus_subteres,species,larvae,3.63e-5,terrestrial aboveground
-Cyclopoida,order,adults,8.28e-6,marine
-Foraminifera,NA,adults,2.43e-5,marine
-Capitella_capitata,species,larvae,3.37e-5,marine
-Polydora_nuchalis,species,larvae,3.37e-5,marine
-Ostracoda,Class,adults,3.61e-5,marine
-Cryptomya_californica,species,larvae,3.63e-5,marine
-Macoma_nasuta,species,larvae,3.63e-5,marine
-Macoma_secta,species,larvae,3.63e-5,marine
-Mytilus_galloprovincialis,species,larvae,3.63e-5,marine
-Nuttallia_nuttallii,species,larvae,3.63e-5,marine
-Protothaca_staminea,species,larvae,3.63e-5,marine
-Saxidomus_nuttalli,species,larvae,3.63e-5,marine
-Tagelus_affinis,species,larvae,3.63e-5,marine
-Tagelus_californianus,species,larvae,3.63e-5,marine
-Tagelus_subteres,species,larvae,3.63e-5,marine
-Marine_detritus,NA,NA,-999,terrestrial aboveground
-Trematode,NA,cercaria,-999,terrestrial aboveground
-Austrobilharzia_sp.,genus,cercaria,3.33e-7,marine
-Parvatrema_sp.,genus,cercaria,8.27e-7,marine
-Cloacitrema_michiganiensis,species,cercaria,1.31e-6,marine
-Renicola_buchanani,species,cercaria,1.36e-6,marine
-Acanthoparyphium_spinulosum,species,cercaria,2.21e-6,marine
-Parorchis_acanthus,species,cercaria,2.36e-6,marine
-Himasthla_B,NA,cercaria,4.19e-6,marine
-Harpacticoida,order,adults,5.17e-6,marine
-Himasthla_rhigedana,species,cercaria,6.18e-6,marine
-Renicola_cerithidicola,species,cercaria,9.24e-8,marine
-renic,NA,cercaria,9.24e-8,marine
-Maritrema_sp.,genus,cercaria,1.07e-7,marine
-Microphallidae,family,cercaria,1.2e-7,marine
-Probolocoryphe_species_A,genus,cercaria,1.48e-7,marine
-Euhaplorchis_californiensis,species,cercaria,4.26e-7,marine
-Renicola_sp.,genus,cercaria,4.95e-7,marine
-Catatropis_johnstoni,species,cercaria,2.66e-6,marine
-Oniscidea,NA,adults,0.00242802,marine
-Calidris_minutilla,species,adults,20.9,terrestrial aboveground
-Limosa_fedoa,species,adults,367.5,terrestrial aboveground
-Recurvirostra_americana,species,adults,304.3,terrestrial aboveground
-Catoptrophorus_semipalmatus,species,adults,270,terrestrial aboveground
-Melanitta_perspicillata,species,adults,950,terrestrial aboveground
-Pluvialis_squatarola,species,adults,225.5,terrestrial aboveground
-Tringa_melanoleuca,species,adults,165,terrestrial aboveground
-Fulica_americana,species,adults,650,terrestrial aboveground
-Limnodromus_scilopaceus,species,adults,104.5,terrestrial aboveground
-Podilymbus_podiceps,species,adults,416,terrestrial aboveground
-Bucephala_albeola,species,adults,401,terrestrial aboveground
-Polydora_nuchalis,species,adults,0.00323541,terrestrial aboveground
-Calidris_alpina,species,adults,51.45,terrestrial aboveground
-Egretta_thula,species,adults,369,terrestrial aboveground
-Charadrius_vociferus,species,adults,95,terrestrial aboveground
-Actitis_macularia,species,adults,44.1,terrestrial aboveground
-Egretta_caerulea,species,adults,340,terrestrial aboveground
-Calidris_mauri,species,adults,24.2,terrestrial aboveground
-Pachygrapsus_crassipes,species,adults,8.2920462,terrestrial aboveground
-Ardea_herodius,species,adults,2400,terrestrial aboveground
-Phalacrocorax_penicillatus,species,adults,2254.5,terrestrial aboveground
-Leptocottus_armatus,species,adults,28.5679949,marine
-Paralichthys_californicus,species,adults,35.3681077,marine
-Acanthogobius_flavimanus,species,adults,26.9388716,marine
-Gillichthys_mirabilis,species,adults,19.4152654,marine
-Hypsopsetta_guttulata,species,adults,24.6492672,marine
-Procyon_locator,species,adults,6000,terrestrial aboveground
-Charadrius_semipalmatus,species,adults,46.95,terrestrial aboveground
-Triakis_semifasciata,species,adults,1314.95447,marine
-Aechmophorus_occidentalis,species,adults,1314,terrestrial aboveground
-Mergus_serrator,species,adults,1040.5,terrestrial aboveground
-Egretta_alba,species,adults,873.5,terrestrial aboveground
-Nycticorax_nycticorax,species,adults,869.6,terrestrial aboveground
-Numenius_americanus,species,adults,754.5,terrestrial aboveground
-Sterna_caspia,species,adults,655.5,terrestrial aboveground
-Numenius_phaeopus,species,adults,404,terrestrial aboveground
-Larus_californicus,species,adults,738,terrestrial aboveground
-Urolophus_halleri,species,adults,467.2,marine
-Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground
-Cymatogaster_aggregata,species,adults,3.67831145,marine
-Butorides_virescens,species,adults,241,terrestrial aboveground
-Larus_delawarensis,species,adults,518.5,terrestrial aboveground
-Fundulus_parvipinnis,species,adults,0.50501708,marine
-Larus_canus,species,adults,480,terrestrial aboveground
-Corvus_brachyrhynchos,species,adults,399.5,terrestrial aboveground
-Ceryle_alcyon,species,adults,147.6,terrestrial aboveground
-Larus_philadelphia,species,adults,211.25,terrestrial aboveground
-Clevelandia_ios,species,adults,0.3380892,marine
-Accipiter_cooperi,species,adults,360,terrestrial aboveground
-Pardosa_sp.,genus,adults,0.01040481,terrestrial aboveground
-Carinoma_mutabilis,species,adults,0.00192876,terrestrial aboveground
-Nemertean,NA,adults,0.00162242,terrestrial aboveground
-Foraminifera,NA,adults,2.43e-5,marine
-Capitella_capitata,species,larvae,3.37e-5,marine
-Polydora_nuchalis,species,larvae,3.37e-5,marine
-Cryptomya_californica,species,adults,0.35478198,terrestrial aboveground
-Mytilus_galloprovincialis,species,adults,-999,terrestrial aboveground
-Cryptomya_californica,species,larvae,3.63e-5,marine
-Mytilus_galloprovincialis,species,larvae,3.63e-5,marine
-Acteocina_inculta,species,adults,0.00735517,marine
-Cerithidea_californica,species,adults,1.2137299,terrestrial aboveground
-Cyclopoida,order,adults,8.28e-6,terrestrial aboveground
-Ephydra,NA,adults,0.03373598,terrestrial aboveground
-green_gammaridean,NA,adults,0.00461043,terrestrial aboveground
-Ostracoda,Class,adults,3.61e-5,marine
-Trichocorixia_sp.,genus,adults,0.00360519,marine
-Ephydra,genus,larvae,0.0449813,marine
-Neotrypaea_californiensis,species,adults,4.74904783,marine
-Uca_crenulata,species,adults,1.86130374,terrestrial aboveground
-Atherinops_affinis,species,adults,2.59261677,marine
-Saxidomus_nuttalli,species,adults,152.991665,terrestrial aboveground
-Nuttallia_nuttallii,species,adults,44.6619368,terrestrial aboveground
-Macoma_secta,species,adults,26.0738713,terrestrial aboveground
-Tagelus_californianus,species,adults,20.0794771,terrestrial aboveground
-Protothaca_staminea,species,adults,18.652076,terrestrial aboveground
-Tagelus_subteres,species,adults,9.80811218,terrestrial aboveground
-Macoma_nasuta,species,adults,6.59637917,terrestrial aboveground
-Tagelus_affinis,species,adults,6.5695182,terrestrial aboveground
-Oxyura_jamaicensis,species,adults,560,terrestrial aboveground
-Upogebia_macginitieorum,species,adults,8.1941841,marine
-Anas_platyrhynchos,species,adults,1186.5,terrestrial aboveground
-Anas_americana,species,adults,780,terrestrial aboveground
-Anas_discors,species,adults,364,terrestrial aboveground
-Anas_cyanoptera,species,adults,359,terrestrial aboveground
-Anas_crecca,species,adults,338,terrestrial aboveground
-Macoma_nasuta,species,larvae,3.63e-5,marine
-Macoma_secta,species,larvae,3.63e-5,marine
-Nuttallia_nuttallii,species,larvae,3.63e-5,marine
-Protothaca_staminea,species,larvae,3.63e-5,marine
-Saxidomus_nuttalli,species,larvae,3.63e-5,marine
-Tagelus_affinis,species,larvae,3.63e-5,marine
-Tagelus_californianus,species,larvae,3.63e-5,marine
-Tagelus_subteres,species,larvae,3.63e-5,marine
+consumer,resource,NA,NA,NA,NA
+Harpacticoida,order,adults,5.17e-6,terrestrial aboveground,2
+Oligochaeta,Class,adults,0.00114,terrestrial aboveground,NA
+Nemertean,NA,adults,0.00162242,terrestrial aboveground,NA
+green_gammaridean,NA,adults,0.00461043,terrestrial aboveground,2
+Carinoma_mutabilis,species,adults,0.00192876,terrestrial aboveground,2
+Oniscidea,NA,adults,0.00242802,terrestrial aboveground,2
+Culex_tarsalis,species,larvae,0.00217,terrestrial aboveground,2
+Capitella_capitata,species,adults,0.00288468,terrestrial aboveground,2
+Aedes_taeniorhynchus,species,larvae,0.0025,terrestrial aboveground,2
+Polydora_nuchalis,species,adults,0.00323541,terrestrial aboveground,2
+Traskorchestia_traskiana,species,adults,0.00360519,terrestrial aboveground,2
+Trichocorixia_sp.,genus,adults,0.00360519,terrestrial aboveground,2
+Corophiidae,family,adults,0.00573086,terrestrial aboveground,2
+Pygidiopsoides_spindalis,species,cercaria,5.31e-8,terrestrial aboveground,NA
+Acteocina_inculta,species,adults,0.00735517,terrestrial aboveground,2
+Assiminea_californica,species,adults,0.00201946,terrestrial aboveground,2
+Diptera,NA,larvae,0.00685528,terrestrial aboveground,2
+Diptera,NA,adults,0.00942176,terrestrial aboveground,3
+Renicola_cerithidicola,species,cercaria,9.24e-8,terrestrial aboveground,NA
+Maritrema_sp.,genus,cercaria,1.07e-7,terrestrial aboveground,NA
+Diptera,NA,pupa,0.00942176,terrestrial aboveground,2
+Microphallidae,family,cercaria,1.2e-7,terrestrial aboveground,NA
+Probolocoryphe_species_A,genus,cercaria,1.48e-7,terrestrial aboveground,NA
+Cyathocotylidae,family,cercaria,2.59e-7,terrestrial aboveground,NA
+Ephydra,NA,adults,0.03373598,terrestrial aboveground,3
+Phocitremoides_ovale,species,cercaria,2.97e-7,terrestrial aboveground,NA
+Austrobilharzia_sp.,genus,cercaria,3.33e-7,terrestrial aboveground,NA
+Euhaplorchis_californiensis,species,cercaria,4.26e-7,terrestrial aboveground,NA
+Clevelandia_ios,species,adults,0.3380892,terrestrial aboveground,2
+green_gammaridean,NA,adults,0.00461043,marine,2
+Corophiidae,family,adults,0.00573086,marine,2
+Ephydra,genus,larvae,0.0449813,terrestrial aboveground,2
+Ephydra,genus,pupa,0.0449813,terrestrial aboveground,2
+Traskorchestia_traskiana,species,adults,0.00360519,marine,2
+Trichocorixia_sp.,genus,adults,0.00360519,marine,3
+Mesostephanus_appendiculatus,species,cercaria,6.28e-7,terrestrial aboveground,NA
+Stictodora_hancocki,species,cercaria,6.28e-7,terrestrial aboveground,NA
+Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground,2
+Fundulus_parvipinnis,species,adults,0.50501708,terrestrial aboveground,2
+Clevelandia_ios,species,adults,0.3380892,marine,3
+Uca_crenulata,species,adults,1.86130374,terrestrial aboveground,2
+Diptera,NA,larvae,0.00685528,marine,3
+Fundulus_parvipinnis,species,adults,0.50501708,marine,3
+Renicola_buchanani,species,cercaria,1.36e-6,terrestrial aboveground,NA
+Atherinops_affinis,species,adults,2.59261677,terrestrial aboveground,3
+Cryptomya_californica,species,adults,0.35478198,terrestrial aboveground,2
+Melampus_olivaceus,species,adults,0.21034532,terrestrial aboveground,2
+Catatropis_johnstoni,species,cercaria,2.66e-6,terrestrial aboveground,NA
+Diptera,NA,larvae,0.00685528,terrestrial aboveground,3
+Acteocina_inculta,species,adults,0.00735517,terrestrial aboveground,3
+Hemigrapsus_oregonensis,species,adults,1.16850119,marine,2
+Atherinops_affinis,species,adults,2.59261677,terrestrial aboveground,2
+Cerithidea_californica,species,adults,1.2137299,terrestrial aboveground,2
+Pachygrapsus_crassipes,species,adults,8.2920462,terrestrial aboveground,2
+Uca_crenulata,species,adults,1.86130374,marine,2
+Cymatogaster_aggregata,species,adults,3.67831145,terrestrial aboveground,2
+Atherinops_affinis,species,adults,2.59261677,marine,3
+Oligochaeta,Class,adults,0.00114,marine,NA
+Ephydra,genus,larvae,0.0449813,marine,3
+Ephydra,genus,pupa,0.0449813,marine,2
+Cymatogaster_aggregata,species,adults,3.67831145,marine,3
+Nemertean,NA,adults,0.00162242,marine,NA
+Neotrypaea_californiensis,species,adults,4.74904783,marine,3
+Carinoma_mutabilis,species,adults,0.00192876,marine,2
+Assiminea_californica,species,adults,0.00201946,marine,3
+Culex_tarsalis,species,larvae,0.00217,marine,3
+Aedes_taeniorhynchus,species,larvae,0.0025,marine,3
+Tagelus_affinis,species,adults,6.5695182,marine,2
+Neotrypaea_californiensis,species,adults,4.74904783,terrestrial aboveground,2
+Macoma_nasuta,species,adults,6.59637917,marine,2
+Ephydra,genus,larvae,0.0449813,terrestrial aboveground,3
+Capitella_capitata,species,adults,0.00288468,marine,2
+Upogebia_macginitieorum,species,adults,8.1941841,marine,3
+Pachygrapsus_crassipes,species,adults,8.2920462,marine,2
+Polydora_nuchalis,species,adults,0.00323541,marine,2
+Tagelus_affinis,species,adults,6.5695182,terrestrial aboveground,2
+Macoma_nasuta,species,adults,6.59637917,terrestrial aboveground,2
+Tagelus_subteres,species,adults,9.80811218,marine,2
+Gillichthys_mirabilis,species,adults,19.4152654,terrestrial aboveground,2
+Upogebia_macginitieorum,species,adults,8.1941841,terrestrial aboveground,2
+Hypsopsetta_guttulata,species,adults,24.6492672,terrestrial aboveground,2
+Tagelus_subteres,species,adults,9.80811218,terrestrial aboveground,2
+Acanthogobius_flavimanus,species,adults,26.9388716,terrestrial aboveground,2
+Leptocottus_armatus,species,adults,28.5679949,terrestrial aboveground,2
+Protothaca_staminea,species,adults,18.652076,marine,2
+Acteocina_inculta,species,adults,0.00735517,marine,3
+Paralichthys_californicus,species,adults,35.3681077,terrestrial aboveground,2
+Gillichthys_mirabilis,species,adults,19.4152654,marine,3
+Tagelus_californianus,species,adults,20.0794771,marine,2
+Charadrius_vociferus,species,adults,95,terrestrial aboveground,2
+Hypsopsetta_guttulata,species,adults,24.6492672,marine,3
+Protothaca_staminea,species,adults,18.652076,terrestrial aboveground,2
+Macoma_secta,species,adults,26.0738713,marine,2
+Tagelus_californianus,species,adults,20.0794771,terrestrial aboveground,2
+Leptocottus_armatus,species,adults,28.5679949,marine,3
+Paralichthys_californicus,species,adults,35.3681077,marine,3
+Macoma_secta,species,adults,26.0738713,terrestrial aboveground,2
+Nuttallia_nuttallii,species,adults,44.6619368,marine,2
+Nuttallia_nuttallii,species,adults,44.6619368,terrestrial aboveground,2
+Calidris_minutilla,species,adults,20.9,terrestrial aboveground,3
+Calidris_mauri,species,adults,24.2,terrestrial aboveground,3
+Fulica_americana,species,adults,650,terrestrial aboveground,2
+Saxidomus_nuttalli,species,adults,152.991665,marine,2
+Actitis_macularia,species,adults,44.1,terrestrial aboveground,3
+Calidris_alpina,species,adults,51.45,terrestrial aboveground,3
+Saxidomus_nuttalli,species,adults,152.991665,terrestrial aboveground,2
+Anas_platyrhynchos,species,adults,1186.5,terrestrial aboveground,2
+Acanthogobius_flavimanus,species,adults,26.9388716,marine,3
+Diptera,NA,adults,0.00942176,terrestrial aboveground,2
+Pardosa_sp.,genus,adults,0.01040481,terrestrial aboveground,2
+Capitella_capitata,species,adults,0.00288468,terrestrial aboveground,NA
+Polydora_nuchalis,species,adults,0.00323541,terrestrial aboveground,NA
+Ephydra,NA,adults,0.03373598,terrestrial aboveground,2
+Epipellic_flora,NA,adults,-999,marine,NA
+Hemiuridae,family,cercaria,-999,terrestrial aboveground,NA
+Hysterolecitha_trilocalis,species,cercaria,-999,terrestrial aboveground,NA
+unk_a/sm_meso,NA,cercaria,-999,terrestrial aboveground,NA
+unk_c,NA,cercaria,-999,terrestrial aboveground,NA
+Phytoplankton,NA,adults,-999,marine,NA
+Phytoplankton,NA,adults,-999,terrestrial aboveground,NA
+Epipellic_flora,NA,adults,-999,terrestrial aboveground,NA
+Macroalgae,NA,adults,-999,terrestrial aboveground,2
+Mytilus_galloprovincialis,species,adults,-999,terrestrial aboveground,2
+Salicornia_virginica,species,adults,-999,terrestrial aboveground,NA
+Trematode,NA,cercaria,-999,marine,NA
+Macroalgae,NA,adults,-999,marine,2
+unk_c,NA,cercaria,-999,marine,NA
+Distichlis_spicata,species,adults,-999,terrestrial aboveground,NA
+Frankenia_salina,species,adults,-999,terrestrial aboveground,2
+Jaumea_carnosa,species,adults,-999,terrestrial aboveground,2
+Limonium_californicum,species,adults,-999,terrestrial aboveground,2
+Monanthocloe_littoralis,species,adults,-999,terrestrial aboveground,NA
+Cordylanthus_maritimus,species,adults,-999,terrestrial aboveground,2
+renic,NA,cercaria,9.24e-8,terrestrial aboveground,NA
+Renicola_sp.,genus,cercaria,4.95e-7,terrestrial aboveground,NA
+Parvatrema_sp.,genus,cercaria,8.27e-7,terrestrial aboveground,NA
+Cloacitrema_michiganiensis,species,cercaria,1.31e-6,terrestrial aboveground,NA
+Acanthoparyphium_spinulosum,species,cercaria,2.21e-6,terrestrial aboveground,NA
+Parorchis_acanthus,species,cercaria,2.36e-6,terrestrial aboveground,NA
+Himasthla_B,NA,cercaria,4.19e-6,terrestrial aboveground,NA
+Himasthla_rhigedana,species,cercaria,6.18e-6,terrestrial aboveground,NA
+Foraminifera,NA,adults,2.43e-5,terrestrial aboveground,2
+Capitella_capitata,species,larvae,3.37e-5,terrestrial aboveground,3
+Polydora_nuchalis,species,larvae,3.37e-5,terrestrial aboveground,3
+Cryptomya_californica,species,larvae,3.63e-5,terrestrial aboveground,3
+Macoma_nasuta,species,larvae,3.63e-5,terrestrial aboveground,3
+Macoma_secta,species,larvae,3.63e-5,terrestrial aboveground,3
+Mytilus_galloprovincialis,species,larvae,3.63e-5,terrestrial aboveground,3
+Nuttallia_nuttallii,species,larvae,3.63e-5,terrestrial aboveground,3
+Protothaca_staminea,species,larvae,3.63e-5,terrestrial aboveground,3
+Saxidomus_nuttalli,species,larvae,3.63e-5,terrestrial aboveground,3
+Tagelus_affinis,species,larvae,3.63e-5,terrestrial aboveground,3
+Tagelus_californianus,species,larvae,3.63e-5,terrestrial aboveground,3
+Tagelus_subteres,species,larvae,3.63e-5,terrestrial aboveground,3
+Cyclopoida,order,adults,8.28e-6,marine,2
+Foraminifera,NA,adults,2.43e-5,marine,3
+Capitella_capitata,species,larvae,3.37e-5,marine,3
+Polydora_nuchalis,species,larvae,3.37e-5,marine,3
+Ostracoda,Class,adults,3.61e-5,marine,3
+Cryptomya_californica,species,larvae,3.63e-5,marine,3
+Macoma_nasuta,species,larvae,3.63e-5,marine,3
+Macoma_secta,species,larvae,3.63e-5,marine,3
+Mytilus_galloprovincialis,species,larvae,3.63e-5,marine,3
+Nuttallia_nuttallii,species,larvae,3.63e-5,marine,3
+Protothaca_staminea,species,larvae,3.63e-5,marine,3
+Saxidomus_nuttalli,species,larvae,3.63e-5,marine,3
+Tagelus_affinis,species,larvae,3.63e-5,marine,3
+Tagelus_californianus,species,larvae,3.63e-5,marine,3
+Tagelus_subteres,species,larvae,3.63e-5,marine,3
+Marine_detritus,NA,NA,-999,terrestrial aboveground,NA
+Trematode,NA,cercaria,-999,terrestrial aboveground,NA
+Austrobilharzia_sp.,genus,cercaria,3.33e-7,marine,NA
+Parvatrema_sp.,genus,cercaria,8.27e-7,marine,NA
+Cloacitrema_michiganiensis,species,cercaria,1.31e-6,marine,NA
+Renicola_buchanani,species,cercaria,1.36e-6,marine,NA
+Acanthoparyphium_spinulosum,species,cercaria,2.21e-6,marine,NA
+Parorchis_acanthus,species,cercaria,2.36e-6,marine,NA
+Himasthla_B,NA,cercaria,4.19e-6,marine,NA
+Harpacticoida,order,adults,5.17e-6,marine,2
+Himasthla_rhigedana,species,cercaria,6.18e-6,marine,NA
+Renicola_cerithidicola,species,cercaria,9.24e-8,marine,NA
+renic,NA,cercaria,9.24e-8,marine,NA
+Maritrema_sp.,genus,cercaria,1.07e-7,marine,NA
+Microphallidae,family,cercaria,1.2e-7,marine,NA
+Probolocoryphe_species_A,genus,cercaria,1.48e-7,marine,NA
+Euhaplorchis_californiensis,species,cercaria,4.26e-7,marine,NA
+Renicola_sp.,genus,cercaria,4.95e-7,marine,NA
+Catatropis_johnstoni,species,cercaria,2.66e-6,marine,NA
+Oniscidea,NA,adults,0.00242802,marine,2
+Calidris_minutilla,species,adults,20.9,terrestrial aboveground,2
+Limosa_fedoa,species,adults,367.5,terrestrial aboveground,NA
+Recurvirostra_americana,species,adults,304.3,terrestrial aboveground,NA
+Catoptrophorus_semipalmatus,species,adults,270,terrestrial aboveground,NA
+Melanitta_perspicillata,species,adults,950,terrestrial aboveground,2
+Pluvialis_squatarola,species,adults,225.5,terrestrial aboveground,NA
+Limosa_fedoa,species,adults,367.5,terrestrial aboveground,2
+Recurvirostra_americana,species,adults,304.3,terrestrial aboveground,2
+Tringa_melanoleuca,species,adults,165,terrestrial aboveground,NA
+Fulica_americana,species,adults,650,terrestrial aboveground,2
+Catoptrophorus_semipalmatus,species,adults,270,terrestrial aboveground,2
+Pluvialis_squatarola,species,adults,225.5,terrestrial aboveground,2
+Limnodromus_scilopaceus,species,adults,104.5,terrestrial aboveground,NA
+Podilymbus_podiceps,species,adults,416,terrestrial aboveground,2
+Bucephala_albeola,species,adults,401,terrestrial aboveground,2
+Tringa_melanoleuca,species,adults,165,terrestrial aboveground,2
+Polydora_nuchalis,species,adults,0.00323541,terrestrial aboveground,NA
+Limnodromus_scilopaceus,species,adults,104.5,terrestrial aboveground,2
+Calidris_alpina,species,adults,51.45,terrestrial aboveground,NA
+Egretta_thula,species,adults,369,terrestrial aboveground,3
+Charadrius_vociferus,species,adults,95,terrestrial aboveground,2
+Actitis_macularia,species,adults,44.1,terrestrial aboveground,NA
+Egretta_caerulea,species,adults,340,terrestrial aboveground,3
+Recurvirostra_americana,species,adults,304.3,terrestrial aboveground,3
+Calidris_alpina,species,adults,51.45,terrestrial aboveground,2
+Pluvialis_squatarola,species,adults,225.5,terrestrial aboveground,3
+Actitis_macularia,species,adults,44.1,terrestrial aboveground,2
+Calidris_mauri,species,adults,24.2,terrestrial aboveground,NA
+Calidris_minutilla,species,adults,20.9,terrestrial aboveground,NA
+Tringa_melanoleuca,species,adults,165,terrestrial aboveground,3
+Calidris_mauri,species,adults,24.2,terrestrial aboveground,2
+Charadrius_vociferus,species,adults,95,terrestrial aboveground,3
+Pachygrapsus_crassipes,species,adults,8.2920462,terrestrial aboveground,NA
+Ardea_herodius,species,adults,2400,terrestrial aboveground,2
+Phalacrocorax_penicillatus,species,adults,2254.5,terrestrial aboveground,2
+Leptocottus_armatus,species,adults,28.5679949,marine,2
+Paralichthys_californicus,species,adults,35.3681077,marine,2
+Acanthogobius_flavimanus,species,adults,26.9388716,marine,2
+Gillichthys_mirabilis,species,adults,19.4152654,marine,2
+Gillichthys_mirabilis,species,adults,19.4152654,marine,3
+Hypsopsetta_guttulata,species,adults,24.6492672,marine,2
+Procyon_locator,species,adults,6000,terrestrial aboveground,2
+Charadrius_semipalmatus,species,adults,46.95,terrestrial aboveground,3
+Actitis_macularia,species,adults,44.1,terrestrial aboveground,3
+Pachygrapsus_crassipes,species,adults,8.2920462,terrestrial aboveground,2
+Triakis_semifasciata,species,adults,1314.95447,marine,3
+Aechmophorus_occidentalis,species,adults,1314,terrestrial aboveground,2
+Mergus_serrator,species,adults,1040.5,terrestrial aboveground,2
+Egretta_alba,species,adults,873.5,terrestrial aboveground,2
+Nycticorax_nycticorax,species,adults,869.6,terrestrial aboveground,2
+Calidris_mauri,species,adults,24.2,terrestrial aboveground,3
+Procyon_locator,species,adults,6000,terrestrial aboveground,3
+Numenius_americanus,species,adults,754.5,terrestrial aboveground,2
+Calidris_minutilla,species,adults,20.9,terrestrial aboveground,3
+Sterna_caspia,species,adults,655.5,terrestrial aboveground,2
+Numenius_phaeopus,species,adults,404,terrestrial aboveground,2
+Larus_californicus,species,adults,738,terrestrial aboveground,2
+Urolophus_halleri,species,adults,467.2,marine,3
+Pachygrapsus_crassipes,species,adults,8.2920462,terrestrial aboveground,3
+Triakis_semifasciata,species,adults,1314.95447,marine,2
+Egretta_thula,species,adults,369,terrestrial aboveground,2
+Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground,NA
+Egretta_caerulea,species,adults,340,terrestrial aboveground,2
+Cymatogaster_aggregata,species,adults,3.67831145,marine,2
+Butorides_virescens,species,adults,241,terrestrial aboveground,2
+Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground,2
+Larus_delawarensis,species,adults,518.5,terrestrial aboveground,2
+Fundulus_parvipinnis,species,adults,0.50501708,marine,NA
+Larus_canus,species,adults,480,terrestrial aboveground,2
+Urolophus_halleri,species,adults,467.2,marine,2
+Corvus_brachyrhynchos,species,adults,399.5,terrestrial aboveground,2
+Ceryle_alcyon,species,adults,147.6,terrestrial aboveground,2
+Fundulus_parvipinnis,species,adults,0.50501708,marine,2
+Fundulus_parvipinnis,species,adults,0.50501708,marine,3
+Larus_philadelphia,species,adults,211.25,terrestrial aboveground,2
+Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground,3
+Paralichthys_californicus,species,adults,35.3681077,marine,3
+Clevelandia_ios,species,adults,0.3380892,marine,3
+Leptocottus_armatus,species,adults,28.5679949,marine,3
+Acanthogobius_flavimanus,species,adults,26.9388716,marine,3
+Clevelandia_ios,species,adults,0.3380892,marine,2
+Hypsopsetta_guttulata,species,adults,24.6492672,marine,3
+Accipiter_cooperi,species,adults,360,terrestrial aboveground,3
+Charadrius_semipalmatus,species,adults,46.95,terrestrial aboveground,2
+Pardosa_sp.,genus,adults,0.01040481,terrestrial aboveground,2
+Carinoma_mutabilis,species,adults,0.00192876,terrestrial aboveground,NA
+Nemertean,NA,adults,0.00162242,terrestrial aboveground,NA
+Carinoma_mutabilis,species,adults,0.00192876,terrestrial aboveground,2
+Foraminifera,NA,adults,2.43e-5,marine,NA
+Capitella_capitata,species,larvae,3.37e-5,marine,NA
+Polydora_nuchalis,species,larvae,3.37e-5,marine,NA
+Cryptomya_californica,species,adults,0.35478198,terrestrial aboveground,NA
+Mytilus_galloprovincialis,species,adults,-999,terrestrial aboveground,NA
+Cryptomya_californica,species,larvae,3.63e-5,marine,NA
+Mytilus_galloprovincialis,species,larvae,3.63e-5,marine,NA
+Acteocina_inculta,species,adults,0.00735517,marine,NA
+Cerithidea_californica,species,adults,1.2137299,terrestrial aboveground,NA
+Cyclopoida,order,adults,8.28e-6,terrestrial aboveground,NA
+Ephydra,NA,adults,0.03373598,terrestrial aboveground,NA
+green_gammaridean,NA,adults,0.00461043,terrestrial aboveground,NA
+green_gammaridean,NA,adults,0.00461043,terrestrial aboveground,2
+Ostracoda,Class,adults,3.61e-5,marine,NA
+Trichocorixia_sp.,genus,adults,0.00360519,marine,NA
+Ephydra,genus,larvae,0.0449813,marine,NA
+Neotrypaea_californiensis,species,adults,4.74904783,marine,NA
+Uca_crenulata,species,adults,1.86130374,terrestrial aboveground,NA
+Uca_crenulata,species,adults,1.86130374,terrestrial aboveground,2
+Acanthogobius_flavimanus,species,adults,26.9388716,marine,NA
+Atherinops_affinis,species,adults,2.59261677,marine,2
+Clevelandia_ios,species,adults,0.3380892,marine,NA
+Gillichthys_mirabilis,species,adults,19.4152654,marine,NA
+Hypsopsetta_guttulata,species,adults,24.6492672,marine,NA
+Leptocottus_armatus,species,adults,28.5679949,marine,NA
+Paralichthys_californicus,species,adults,35.3681077,marine,NA
+Fulica_americana,species,adults,650,terrestrial aboveground,NA
+Saxidomus_nuttalli,species,adults,152.991665,terrestrial aboveground,NA
+Nuttallia_nuttallii,species,adults,44.6619368,terrestrial aboveground,NA
+Macoma_secta,species,adults,26.0738713,terrestrial aboveground,NA
+Tagelus_californianus,species,adults,20.0794771,terrestrial aboveground,NA
+Protothaca_staminea,species,adults,18.652076,terrestrial aboveground,NA
+Tagelus_subteres,species,adults,9.80811218,terrestrial aboveground,NA
+Macoma_nasuta,species,adults,6.59637917,terrestrial aboveground,NA
+Tagelus_affinis,species,adults,6.5695182,terrestrial aboveground,NA
+Oxyura_jamaicensis,species,adults,560,terrestrial aboveground,2
+Saxidomus_nuttalli,species,adults,152.991665,terrestrial aboveground,3
+Nuttallia_nuttallii,species,adults,44.6619368,terrestrial aboveground,3
+Upogebia_macginitieorum,species,adults,8.1941841,marine,2
+Macoma_secta,species,adults,26.0738713,terrestrial aboveground,3
+Tagelus_californianus,species,adults,20.0794771,terrestrial aboveground,3
+Anas_platyrhynchos,species,adults,1186.5,terrestrial aboveground,2
+Oxyura_jamaicensis,species,adults,560,terrestrial aboveground,NA
+Anas_americana,species,adults,780,terrestrial aboveground,2
+Upogebia_macginitieorum,species,adults,8.1941841,marine,3
+Tagelus_affinis,species,adults,6.5695182,terrestrial aboveground,3
+Anas_discors,species,adults,364,terrestrial aboveground,2
+Anas_cyanoptera,species,adults,359,terrestrial aboveground,2
+Anas_crecca,species,adults,338,terrestrial aboveground,2
+Charadrius_semipalmatus,species,adults,46.95,terrestrial aboveground,NA
+Macoma_nasuta,species,larvae,3.63e-5,marine,NA
+Macoma_secta,species,larvae,3.63e-5,marine,NA
+Nuttallia_nuttallii,species,larvae,3.63e-5,marine,NA
+Protothaca_staminea,species,larvae,3.63e-5,marine,NA
+Saxidomus_nuttalli,species,larvae,3.63e-5,marine,NA
+Tagelus_affinis,species,larvae,3.63e-5,marine,NA
+Tagelus_californianus,species,larvae,3.63e-5,marine,NA
+Tagelus_subteres,species,larvae,3.63e-5,marine,NA
+Upogebia_macginitieorum,species,adults,8.1941841,marine,NA
+Anas_americana,species,adults,780,terrestrial aboveground,NA
+Anas_discors,species,adults,364,terrestrial aboveground,NA
+Anas_cyanoptera,species,adults,359,terrestrial aboveground,NA
+Anas_crecca,species,adults,338,terrestrial aboveground,NA
+Anas_platyrhynchos,species,adults,1186.5,terrestrial aboveground,NA
+Atherinops_affinis,species,adults,2.59261677,marine,3
