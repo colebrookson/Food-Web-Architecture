@@ -158,7 +158,13 @@ web_metrics$ecosystem = ecosystem
 web_metrics$mean_body_size = mean_body_size
 web_metrics$mean_dimension = mean_dimension
 
+#add aggregated ecosystems
+web_metrics$agg_ecosystem = '' 
 
+for(i in 1:nrow(web_metrics)) {
+  web_metrics$agg_ecosystem[i] = ifelse(web_metrics$ecosystem[i] == 'terrestrial aboveground', 'terrestrial', 
+                                        ifelse(web_metrics$ecosystem[i] == 'terrestrial belowground', 'terrestrial'))
+}
 
 
 
