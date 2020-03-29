@@ -59,8 +59,40 @@ conn_pql_4 = glm(connectance ~ ecosystem,
                  data = web_metrics,
                  na.action = 'na.fail')
 
+#get the predictions for each one
+conn_pql_1_pred = ggpredict(conn_pql_1, terms = 'ecosystem')
+conn_pql_2_pred = ggpredict(conn_pql_2, terms = 'ecosystem')
+conn_pql_3_pred = ggpredict(conn_pql_3, terms = 'ecosystem')
+conn_pql_4_pred = ggpredict(conn_pql_4, terms = 'ecosystem')
 
+#put them all together, weight them and get the weighted-average
+conn_pql_all_pred = data.frame(cbind(conn_pql_1_pred$predicted, conn_pql_2_pred$predicted, 
+                                     conn_pql_3_pred$predicted, conn_pql_4_pred$predicted,
+                                     conn_pql_1_pred$conf.high, conn_pql_2_pred$conf.high, 
+                                     conn_pql_3_pred$conf.high, conn_pql_4_pred$conf.high,
+                                     conn_pql_1_pred$conf.low, conn_pql_2_pred$conf.low, 
+                                     conn_pql_3_pred$conf.low, conn_pql_4_pred$conf.low)) %>% 
+  rename(conn_1 = X1, conn_2 = X2, conn_3 = X3, conn_4 = X4,
+         conn_1_h = X5, conn_2_h = X6, conn_3_h = X7, conn_4_h = X8,
+         conn_1_l = X9, conn_2_l = X10, conn_3_l = X11, conn_4_l = X12)
 
+conn_pql_all_pred = conn_pql_all_pred %>% 
+  mutate(w1 = rep(conn_pql_dredge$weight[1], nrow(conn_pql_all_pred)), 
+         w2 = rep(conn_pql_dredge$weight[2], nrow(conn_pql_all_pred)),
+         w3 = rep(conn_pql_dredge$weight[3], nrow(conn_pql_all_pred)),
+         w4 = rep(conn_pql_dredge$weight[4], nrow(conn_pql_all_pred)))
+
+conn_pql_all_pred = conn_pql_all_pred %>% 
+  mutate(conn_1w = conn_1*w1, conn_2w = conn_2*w2, conn_3w = conn_3*w3, conn_4w = conn_4*w4,
+         conn_1_hw = conn_1_h*w1, conn_2_hw = conn_2_h*w2, conn_3_hw = conn_3_h*w3, conn_4_hw = conn_4_h*w4,
+         conn_1_lw = conn_1_l*w1, conn_2_lw = conn_2_l*w2, conn_3_lw = conn_3_l*w3, conn_4_lw = conn_4_l*w4) %>% 
+  mutate(avg = conn_1w + conn_2w + conn_3w + conn_4w,
+         avg_h = conn_1_hw + conn_2_hw + conn_3_hw + conn_4_hw,
+         avg_l = conn_1_lw + conn_2_lw + conn_3_lw + conn_4_lw)
+
+conn_pql_avg_pred = conn_pql_all_pred %>% 
+  dplyr::select(avg, avg_h, avg_l) %>% 
+  mutate(ecosystem = conn_pql_1_pred$x)
 
 
 
