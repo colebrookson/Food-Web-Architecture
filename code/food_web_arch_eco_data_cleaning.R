@@ -22,6 +22,7 @@ unique(all_webs$con.common) #to check if parser worked properly
 #make all the species names one string
 all_webs$con.taxonomy = gsub('\\s+', '_', all_webs$con.taxonomy)
 all_webs$res.taxonomy = gsub('\\s+', '_', all_webs$res.taxonomy)
+all_webs$foodweb.name = gsub('\\s+', '_', all_webs$foodweb.name) #remove spaces
 
 #how many unique webs are there?
 sort(unique(all_webs$foodweb.name)) #290
@@ -129,6 +130,7 @@ connectance = vector(mode = 'numeric', length = 290) #initialize vector to store
 ecosystem = vector(mode = 'character', length = 290) #initialize vector to store ecosystem type values in
 mean_body_size = vector(mode = 'numeric', length = 290) #initialize vector to store mean body size values in
 mean_dimension = vector(mode = 'numeric', length = 290) #initialize vector to store mean dimension in
+
 j = 1
 for(i in sort(unique(web_names))) {
   
@@ -144,8 +146,8 @@ for(i in sort(unique(web_names))) {
   
   ## Values from web
   ecosystem[j] = df_nodes$ecosystems[1]
-  mean_body_size[j] = mean(df_nodes$mean_mass, )
-  mean_dimension[j] = mean(df_nodes$dimensions)
+  mean_body_size[j] = mean(df_nodes$mean_mass, na.rm = TRUE)
+  mean_dimension[j] = mean(df_nodes$dimensions, na.rm = TRUE)
   
   j = j+1
   
