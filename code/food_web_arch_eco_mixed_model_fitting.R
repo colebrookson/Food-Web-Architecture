@@ -1,21 +1,19 @@
-##### TITLE: Food Web Architecture Across Ecosystems
+##### PROJECT TITLE: Food Web Architecture Across Ecosystems
 ##### CREATOR: Cole B. Brookson
-##### INITIALIZATION DATE: 2020-03-17
-
-library(tidyverse)
-library(glmmTMB)
-library(ggeffects)
-library(DHARMa)
-library(MuMIn)
-library(car)
-library(MASS)
-library(gamlss)
+##### INITIALIZATION DATE: 2020-03-29
 
 `%notin%` = negate(`%in%`)
 dir = 'C:/Users/coleb/Documents/GitHub/food-web-architecture-across-ecosystems/data'
 setwd(dir)
 
 source('food_web_arch_eco_data_cleaning.R') #pull data cleaning and neccessary dataframes
+
+library(ggeffects)
+library(DHARMa)
+library(MuMIn)
+library(car)
+library(MASS)
+library(gamlss)
 
 ##### Fit regression model to look at the impact of ecosystem on connectance
 

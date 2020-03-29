@@ -1,11 +1,12 @@
-##### TITLE: Food Web Architecture Across Ecosystems
+##### PROJECT TITLE: Food Web Architecture Across Ecosystems
 ##### CREATOR: Cole B. Brookson
 ##### INITIALIZATION DATE: 2020-03-17
 
-library(tidyverse)
-library(fastDummies)
 dir = 'C:/Users/coleb/Documents/GitHub/food-web-architecture-across-ecosystems/data'
 setwd(dir)
+
+library(tidyverse)
+library(fastDummies)
 
 all_webs_spec = spec_csv('283_2_FoodWebDataBase_2018_12_10.csv') #test how read in will work
 all_webs_spec
@@ -46,7 +47,7 @@ get_edges_and_nodes = function(all_webs){
 
     #keep variables
     web = web %>% 
-      select(autoID, interaction.type, con.taxonomy, con.taxonomy.level, con.lifestage, 
+      dplyr::select(autoID, interaction.type, con.taxonomy, con.taxonomy.level, con.lifestage, 
              con.mass.mean.g., res.taxonomy, res.taxonomy.level, res.lifestage,
              res.mass.mean.g., ecosystem.type, interaction.dimensionality)
     
@@ -73,10 +74,12 @@ get_edges_and_nodes = function(all_webs){
              dimensions = interaction.dimensionality)
     web_nodes = rbind(web_res_node, web_con_node)
     web_nodes$dimensions = as.integer(substr(web_nodes$dimensions,1,1))
+    web_nodes = web_nodes %>% 
+      distinct()
     
     #make edge list
     web_edges = web %>% 
-      select(con.taxonomy, res.taxonomy) %>% 
+      dplyr::select(con.taxonomy, res.taxonomy) %>% 
       rename(consumer = con.taxonomy, 
              resource = res.taxonomy) %>% 
       distinct()
