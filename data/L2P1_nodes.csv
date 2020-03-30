@@ -1,7 +1,6 @@
 consumer,resource,NA,NA,NA,NA
 Insecta,class,NA,0.01,marine,3
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Ophiuroidea,class,NA,0.005,marine,2
 Paracentrotus_lividus,species,NA,4.85,marine,2
 Lipophrys_pholis,species,NA,4.33,marine,3
@@ -17,9 +16,7 @@ Omalogyra_atomus,species,NA,7e-4,marine,2
 Barleeia_sp.,genus,NA,0.004,marine,2
 Aplysia_punctata,species,NA,1.56,marine,2
 Musculus_costulatus,species,NA,0.008,marine,2
-Musculus_costulatus,species,NA,0.008,marine,3
 Mytilus_galloprovincialis,species,NA,0.16,marine,2
-Mytilus_galloprovincialis,species,NA,0.16,marine,3
 Cumacea,order,NA,0.01,marine,2
 Sphaeromatidae,family,NA,0.07,marine,2
 Munnidae,family,NA,0.01,marine,2
@@ -34,18 +31,7 @@ Eriphia_verrucosa,species,NA,0.01,marine,2
 Xantho_pilipes,species,NA,0.01,marine,2
 Pirimela_denticulata,species,NA,0.5,marine,2
 Actinia_fragacea,species,NA,0.74,marine,3
-Polychaeta,class,NA,0.17,marine,3
-Ophiuroidea,class,NA,0.005,marine,3
-Oligochaeta,NA,NA,0.01,marine,3
 Venerupis_sp.,genus,NA,0.006,marine,3
 Turtonia_minuta,species,NA,0.0016,marine,3
-Palaemon_longirostris,species,NA,0.09,marine,2
-Palaemon_elegans,species,NA,0.7,marine,2
-Gobius_paganellus,species,NA,0.17,marine,2
-Lipophrys_pholis,species,NA,4.33,marine,2
 Anemonia_sulcata,species,NA,32.73,marine,3
-Actinia_fragacea,species,NA,0.74,marine,2
 Turridae,family,NA,0.014,marine,2
-Ampithoidae,family,NA,0.01,marine,2
-Anemonia_sulcata,species,NA,32.73,marine,2
-Gammaridae,family,NA,0.01,marine,2

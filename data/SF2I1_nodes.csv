@@ -2,7 +2,6 @@ consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,3
 Oligochaeta,NA,NA,2e-4,marine,2
 Nematoda,NA,NA,0.01,marine,2
-Oligochaeta,NA,NA,2e-4,marine,3
 Mytilus_sp.,genus,NA,4.5298,marine,3
 Gammarus_oceanicus,species,NA,0.1417,marine,3
 Harpacticoida,order,NA,0.001,marine,3

@@ -1,7 +1,6 @@
 consumer,resource,NA,NA,NA,NA
 Lottia_subrugosa,species,NA,0.22,marine,2
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Pachygrapsus_transversus,species,NA,9.76,marine,2
 Copepoda,NA,NA,0.001,marine,3
 Petaloconchus_sp,genus,NA,0.01,marine,3
@@ -15,6 +14,3 @@ Tetraclita_stalactifera,species,NA,43.5,marine,3
 Crassostrea_virginica,species,NA,9.53,marine,3
 Cumacea,order,NA,0.01,marine,3
 Sebidae,family,NA,0.01,marine,3
-Polychaeta,class,NA,0.01,marine,3
-Bunodosoma_cangicum,species,NA,0.46,marine,3
-Palaemon_northropi,species,NA,0.01,marine,2

@@ -1,13 +1,10 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Gammaridae,family,NA,0.0013,marine,3
 Pachygrapsus_transversus,species,NA,2.37,marine,2
 Palaemon_elegans,species,NA,0.13,marine,2
-Palaemon_elegans,species,NA,0.13,marine,3
 Gibbula_pennanti,species,NA,0.23,marine,2
 Copepoda,NA,NA,0.001,marine,3
 Polychaeta,class,NA,4e-4,marine,2
 Insecta,class,NA,3e-4,marine,3
 Acanthonyx_lunulatus,species,NA,0.18,marine,2
-Gammaridae,family,NA,0.0013,marine,2

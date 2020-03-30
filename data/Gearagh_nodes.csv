@@ -22,17 +22,12 @@ Order_Pseudoscorpionidae,order,adults,4e-4,terrestrial belowground,2
 Order_Lepidoptera_larvae,order,larvae,0.022066667,terrestrial belowground,2
 Order_Hemiptera,order,adults,7.38978e-4,terrestrial belowground,2
 Family_Delphacidae,family,adults,3.66667e-4,terrestrial belowground,2
-Order_Diptera,order,larvae,1.84771e-4,terrestrial belowground,3
 Family_Helidae,family,adults,0.4462,terrestrial belowground,2
 Ophyiulus_pilosus,species,adults,0.007751053,terrestrial belowground,2
 Order_Hymenoptera,order,larvae,9.73347e-4,terrestrial belowground,2
 Order_Gastropoda,order,adults,0.019680046,terrestrial belowground,2
 Order_Opiliones,order,adults,0.001294792,terrestrial belowground,2
 Family_Ptiliidae,family,adults,1.0125e-4,terrestrial belowground,2
-Order_Hymenoptera,order,larvae,9.73347e-4,terrestrial belowground,3
-Porcellio_scaber,species,NA,0.00615,terrestrial belowground,2
-Order_Nematoda,order,NA,4.29e-5,terrestrial belowground,2
-Order_Oligochaeta,order,NA,0.009954127,terrestrial belowground,2
 Arion_distinctus,species,adults,0.010973750000000001,terrestrial belowground,2
 Arion_subfuscus,species,adults,0.031076574,terrestrial belowground,2
 Family_Staphylinidae,family,adults,5.22709e-4,terrestrial belowground,2
@@ -52,7 +47,6 @@ Family_Gnaphosidae,family,adults,1.16667e-4,terrestrial belowground,2
 Family_Gyrinidae,family,adults,0.0015,terrestrial belowground,2
 Family_Hydrometridae,family,adults,0.001475,terrestrial belowground,2
 Family_Linyphiidae,family,adults,1.35357e-4,terrestrial belowground,2
-Family_Linyphiidae,family,adults,1.35357e-4,terrestrial belowground,3
 Family_Lithobiidae,family,adults,0.0062,terrestrial belowground,2
 Family_Philodromidae,family,adults,0.001525,terrestrial belowground,2
 Family_Pselaphidae,family,adults,8.25e-5,terrestrial belowground,2
@@ -60,7 +54,6 @@ Family_Scydmaenidae,family,adults,2.33333e-4,terrestrial belowground,2
 Family_Silphidae,family,adults,0.027933333,terrestrial belowground,2
 Family_Sphecidae,family,NA,0.00875,terrestrial belowground,2
 Family_Theriidae,family,adults,1e-4,terrestrial belowground,2
-Family_Theriidae,family,adults,1e-4,terrestrial belowground,3
 Family_Thomisidae,family,adults,1e-4,terrestrial belowground,2
 Genus_Microvelia,genus,adults,8.25e-5,terrestrial belowground,2
 Gerris_lacustris,species,adults,0.001864286,terrestrial belowground,2
@@ -71,9 +64,6 @@ Loricera_pilicornis,species,adults,0.004166667,terrestrial belowground,2
 Nebria_brevicollis,species,adults,0.013533333,terrestrial belowground,2
 Nemastoma_bimaculatum,species,adults,5.5e-4,terrestrial belowground,2
 Oligolophus_agrestis,species,adults,0.00194,terrestrial belowground,2
-Order_Aranae,order,adults,2.30769e-4,terrestrial belowground,3
-Order_Hymenoptera,order,NA,9.73347e-4,terrestrial belowground,2
-Order_Hymenoptera,order,NA,9.73347e-4,terrestrial belowground,3
 Phalangium_opilio,species,adults,0.0025,terrestrial belowground,2
 Platynus_assimile,species,adults,0.010534874,terrestrial belowground,2
 Platynus_dorsale,species,adults,0.0037,terrestrial belowground,2

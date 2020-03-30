@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Nemertea,NA,NA,0.01,marine,2
 Nematoda,NA,NA,2e-4,marine,2
 Polychaeta,class,NA,0.0012,marine,2
@@ -10,18 +9,10 @@ Omalogyra_atomus,species,NA,3e-4,marine,2
 Bivalvia,class,NA,0.0017,marine,2
 Tanaidacea,NA,NA,0.0012,marine,2
 Gammaridae,family,NA,0.0011,marine,3
-Gammaridae,family,NA,0.0011,marine,2
 Stenothoidae,family,NA,0.0019,marine,3
-Stenothoidae,family,NA,0.0019,marine,2
 Palaemon_serratus,species,NA,0.01,marine,3
 Insecta,class,NA,2e-4,marine,3
 Harparticoida,order,NA,0.001,marine,3
-Harparticoida,order,NA,0.001,marine,2
 Ostracoda,class,NA,0.001,marine,3
-Ostracoda,class,NA,0.001,marine,2
 Halacaridae,family,NA,2e-4,marine,2
-Polychaeta,class,NA,0.0012,marine,3
 Amphipholis_squamata,species,NA,6e-4,marine,2
-Bivalvia,class,NA,0.0017,marine,3
-Tanaidacea,NA,NA,0.0012,marine,3
-Palaemon_serratus,species,NA,0.01,marine,2

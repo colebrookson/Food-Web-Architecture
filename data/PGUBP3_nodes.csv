@@ -2,17 +2,13 @@ consumer,resource,NA,NA,NA,NA
 Pachygrapsus_transversus,species,NA,0.36,marine,2
 Scartella_cristata,species,NA,0.36,marine,3
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Fissurella_clenchi,species,NA,0.12,marine,2
 Copepoda,NA,NA,0.001,marine,3
 Stramonita_haemastoma,species,NA,2.71,marine,2
 Petaloconchus_sp,genus,NA,0.36,marine,2
 Polychaeta,class,NA,0.01,marine,2
-Pachygrapsus_transversus,species,NA,0.36,marine,3
-Petaloconchus_sp,genus,NA,0.36,marine,3
 Isognomon_bicolor,species,NA,0.98,marine,3
 Tanaidacea,NA,NA,0.01,marine,3
 Isopoda,order,NA,0.01,marine,2
 Sebidae,family,NA,0.01,marine,3
-Polychaeta,class,NA,0.01,marine,3
 Eriphia_gonagra,species,NA,0.63,marine,2

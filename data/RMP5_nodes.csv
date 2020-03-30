@@ -1,8 +1,6 @@
 consumer,resource,NA,NA,NA,NA
 Leucothoidae,family,NA,0.003,marine,3
-Leucothoidae,family,NA,0.003,marine,2
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Lipophrys_pholis,species,NA,1.01,marine,3
 Parablennius_parvicornis,species,NA,0.29,marine,3
 Tanaidacea,NA,NA,0.0011,marine,2
@@ -11,9 +9,4 @@ Pachygrapsus_transversus,species,NA,0.34,marine,2
 Coryphoblennius_galerita,species,NA,0.47,marine,3
 Polychaeta,class,NA,0.001,marine,2
 Oligochaeta,NA,NA,0.0012,marine,2
-Tanaidacea,NA,NA,0.0011,marine,3
 Isopoda,order,NA,5e-4,marine,2
-Polychaeta,class,NA,0.001,marine,3
-Oligochaeta,NA,NA,0.0012,marine,3
-Pachygrapsus_transversus,species,NA,0.34,marine,3
-Coryphoblennius_galerita,species,NA,0.47,marine,2

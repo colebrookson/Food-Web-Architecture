@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Polychaeta,class,NA,0.0027,marine,2
 Oligochaeta,NA,NA,3e-4,marine,2
 Omalogyra_atomus,species,NA,4e-4,marine,2
@@ -17,14 +16,4 @@ Insecta,class,NA,2e-4,marine,3
 Amphipholis_squamata,species,NA,0.0024,marine,2
 Coryphoblennius_galerita,species,NA,0.01,marine,3
 Priapulida,NA,NA,0.0077,marine,3
-Tanaidacea,NA,NA,0.0019,marine,3
-Polychaeta,class,NA,0.0027,marine,3
-Oligochaeta,NA,NA,3e-4,marine,3
-Priapulida,NA,NA,0.0077,marine,2
 Liza_ramada,species,NA,0.57,marine,2
-Coryphoblennius_galerita,species,NA,0.01,marine,2
-Leucothoidae,family,NA,9e-4,marine,2
-Palaemon_elegans,species,NA,0.87,marine,2
-Gammaridae,family,NA,5e-4,marine,2
-Lysianassidae,family,NA,7e-4,marine,2
-Liza_ramada,species,NA,0.57,marine,3

@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,2
-Zooplankton,NA,NA,0.001,marine,3
 Cinachyrella_alloclada,species,NA,0.01,marine,2
 Tedania_sp.,genus,NA,0.01,marine,2
 Polychaeta,class,NA,9e-4,marine,2
@@ -14,13 +13,9 @@ Lithopoma_phoebium,species,NA,0.01,marine,2
 Aplysia_dactylomela,species,NA,35.59,marine,2
 Idotea,genus,NA,0.0014,marine,2
 Gammaridae,family,NA,0.0022,marine,2
-Gammaridae,family,NA,0.0022,marine,3
 Talitridae,family,NA,0.01,marine,2
-Talitridae,family,NA,0.01,marine,3
 Amphitoidae,family,NA,0.004,marine,2
-Amphitoidae,family,NA,0.004,marine,3
 Stenothoidae,family,NA,0.01,marine,2
-Stenothoidae,family,NA,0.01,marine,3
 Eriphia_gonagra,species,NA,42.64,marine,2
 Pachygrapsus_transversus,species,NA,4.35,marine,2
 Hippolyte_obliquimanus,species,NA,0.434,marine,2
@@ -32,12 +27,5 @@ Ophiura_sp.,genus,NA,0.001,marine,3
 Protopalythoa_variabilis,species,NA,0.235,marine,3
 Zoanthus_sociatus,species,NA,0.01,marine,3
 Eudistoma_vannamei,species,NA,0.01,marine,3
-Polychaeta,class,NA,9e-4,marine,3
-Sabellidae,family,NA,0.0038,marine,3
 Clibanarius_antillensis,species,NA,0.29,marine,2
 Phallusia_nigra,species,NA,0.01,marine,3
-Hippolyte_obliquimanus,species,NA,0.434,marine,3
-Ophiura_sp.,genus,NA,0.001,marine,2
-Bathygobius_soporator,species,NA,1.8,marine,2
-Neogonodactylus_sp.,species,NA,0.01,marine,2
-Pachygrapsus_transversus,species,NA,4.35,marine,3

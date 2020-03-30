@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Copepoda,NA,NA,0.001,marine,3
 Pachygrapsus_transversus,species,NA,1.21,marine,2
 Scartella_cristata,species,NA,0.01,marine,3
@@ -9,6 +8,4 @@ Mytilaster_solisianus,species,NA,0.01,marine,3
 Tanaidacea,NA,NA,0.01,marine,3
 Isopoda,order,NA,0.01,marine,2
 Sebidae,family,NA,0.01,marine,3
-Polychaeta,class,NA,0.01,marine,3
-Pachygrapsus_transversus,species,NA,1.21,marine,3
 Microphrys_bicornutus,species,NA,0.51,marine,2

@@ -22,7 +22,6 @@ Ancylus_fluviatilis,species,adults,0.00299338,streams,2
 Asellus_aquaticus,species,adults,0.002147854,streams,2
 Bithynia_leachii,species,adults,0.002304789,streams,2
 Erpobdella_octoculata,species,adults,0.008358906,streams,2
-Gammarus_pulex,species,adults,7.62336e-4,streams,3
 Hydropsyche_contubernalis,species,larvae,0.0016436,streams,2
 Hydropsyche_instabilis,species,larvae,0.004600533,streams,2
 Hydropsyche_pellucidula,species,larvae,0.004318817,streams,2
@@ -47,14 +46,5 @@ Empididae,family,larvae,4.31e-5,streams,2
 Calopteryx_splendens,species,larvae,0.010609633,streams,2
 Gyrinidae,family,larvae,0.002682289,streams,2
 Anguilla_anguilla,species,adults,27.35048815,streams,2
-Anguilla_anguilla,species,adults,27.35048815,streams,3
 Esox_lucius,species,adults,2875,streams,2
-Esox_lucius,species,adults,2875,streams,3
-Gobio_gobio,species,adults,1235,streams,2
-Leuciscus_leuciscus,species,adults,13.15928571,streams,2
 Platichthys_flesus,species,adults,37.5,streams,2
-Platichthys_flesus,species,adults,37.5,streams,3
-Rutilus_rutilus,species,adults,8.46924,streams,2
-Salmo_trutta,species,adults,2.974131502,streams,2
-Squalius_cephalus,species,adults,17355,streams,2
-Thymallus_thymallus,species,adults,133.4134549,streams,2

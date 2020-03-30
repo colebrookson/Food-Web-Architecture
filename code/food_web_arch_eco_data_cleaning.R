@@ -75,7 +75,7 @@ get_edges_and_nodes = function(all_webs){
     web_nodes = rbind(web_res_node, web_con_node)
     web_nodes$dimensions = as.integer(substr(web_nodes$dimensions,1,1))
     web_nodes = web_nodes %>% 
-      distinct()
+      distinct(., species, .keep_all = TRUE)
     
     #make edge list
     web_edges = web %>% 

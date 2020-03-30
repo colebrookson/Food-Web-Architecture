@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,2
-Zooplankton,NA,NA,0.001,marine,3
 Polychaeta,class,NA,8e-4,marine,2
 Sabellidae,family,NA,6e-4,marine,2
 Spirorbis_sp.,genus,NA,3e-4,marine,2
@@ -12,19 +11,10 @@ Brachidontes_sp.,genus,NA,0.001,marine,2
 Tanaidacea,NA,NA,0.0015,marine,2
 Isopoda,order,NA,6e-4,marine,2
 Gammaridae,family,NA,8e-4,marine,2
-Gammaridae,family,NA,8e-4,marine,3
 Callinectes_ornatus,species,NA,0.5,marine,3
 Bathygobius_soporator,species,NA,0.54,marine,3
 Pagurus_sp.,genus,NA,0.79,marine,2
 Stramonita_haemastoma,species,NA,2.04,marine,2
 Phallusia_nigra,species,NA,0.01,marine,3
-Brachidontes_sp.,genus,NA,0.001,marine,3
-Tanaidacea,NA,NA,0.0015,marine,3
-Polychaeta,class,NA,8e-4,marine,3
-Sabellidae,family,NA,6e-4,marine,3
-Spirorbis_sp.,genus,NA,3e-4,marine,3
-Oligochaeta,NA,NA,7e-4,marine,3
 Eudistoma_vannamei,species,NA,0.01,marine,3
 Polysyncraton_amethysteum,species,NA,4.65,marine,3
-Callinectes_ornatus,species,NA,0.5,marine,2
-Bathygobius_soporator,species,NA,0.54,marine,2

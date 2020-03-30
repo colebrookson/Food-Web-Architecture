@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Coryphoblennius_galerita,species,NA,0.53,marine,3
 Parablennius_parvicornis,species,NA,0.15,marine,3
 Tanaidacea,NA,NA,0.0013,marine,2
@@ -12,9 +11,4 @@ Nematoda,NA,NA,0.01,marine,2
 Polychaeta,class,NA,3e-4,marine,2
 Oligochaeta,NA,NA,3e-4,marine,2
 Petaloconchus_sp,genus,NA,0.01,marine,3
-Tanaidacea,NA,NA,0.0013,marine,3
 Copepoda,NA,NA,0.001,marine,3
-Polychaeta,class,NA,3e-4,marine,3
-Oligochaeta,NA,NA,3e-4,marine,3
-Pachygrapsus_transversus,species,NA,4.56,marine,3
-Coryphoblennius_galerita,species,NA,0.53,marine,2

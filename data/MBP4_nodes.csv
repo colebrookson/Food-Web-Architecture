@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,3
-Zooplankton,NA,NA,0.001,marine,2
 Nematoda,NA,NA,0.01,marine,2
 Polychaeta,class,NA,0.0035,marine,2
 Oligochaeta,NA,NA,4e-4,marine,2
@@ -12,17 +11,10 @@ Gibbula_umbilicalis,species,NA,0.0663,marine,2
 Phorcus_lineatus,species,NA,0.01,marine,2
 Bivalvia,class,NA,4e-4,marine,2
 Gammaridae,family,NA,9e-4,marine,3
-Gammaridae,family,NA,9e-4,marine,2
 Carcinus_maenas,species,NA,0.01,marine,2
 Insecta,class,NA,2e-4,marine,2
-Insecta,class,NA,2e-4,marine,3
 Harparticoida,order,NA,0.001,marine,3
-Harparticoida,order,NA,0.001,marine,2
 Ostracoda,class,NA,0.001,marine,2
-Ostracoda,class,NA,0.001,marine,3
 Halacaridae,family,NA,2e-4,marine,2
 Pomatoschistus_minutus,species,NA,0.01,marine,2
-Pomatoschistus_minutus,species,NA,0.01,marine,3
-Polychaeta,class,NA,0.0035,marine,3
-Oligochaeta,NA,NA,4e-4,marine,3
 Lineus_ruber,species,NA,2e-4,marine,2

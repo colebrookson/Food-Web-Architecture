@@ -1,6 +1,5 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,2
-Zooplankton,NA,NA,0.001,marine,3
 Batzella_inops,species,NA,0.01,marine,2
 Anemonia_sargassensis,species,NA,0.369,marine,2
 Polychaeta,class,NA,0.01,marine,2
@@ -17,14 +16,5 @@ Amphipholis_squamata,species,NA,0.0016,marine,2
 Lipophrys_pholis,species,NA,5.96,marine,3
 Gobius_sp.,genus,NA,0.3,marine,3
 Thalassoma_pavo,species,NA,0.01,marine,3
-Tanaidacea,NA,NA,6e-4,marine,3
 Liza_ramada,species,NA,0.38,marine,3
-Anemonia_sargassensis,species,NA,0.369,marine,3
-Polychaeta,class,NA,0.01,marine,3
-Gobius_sp.,genus,NA,0.3,marine,2
-Lipophrys_pholis,species,NA,5.96,marine,2
-Liza_ramada,species,NA,0.38,marine,2
 Stramonita_haemastoma,species,NA,7.5,marine,2
-Palaemon_elegans,species,NA,0.25,marine,2
-Thalassoma_pavo,species,NA,0.01,marine,2
-Gammaridae,family,NA,5e-4,marine,2

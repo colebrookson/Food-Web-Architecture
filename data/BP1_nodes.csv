@@ -1,11 +1,9 @@
 consumer,resource,NA,NA,NA,NA
 Zooplankton,NA,NA,0.001,marine,2
-Zooplankton,NA,NA,0.001,marine,3
 Hymeniacidon_heliophila,species,NA,0.01,marine,2
 Polychaeta,class,NA,0.01,marine,2
 Nodilittorina_lineolata,species,NA,6.56,marine,2
 Mytilaster_solisianus,species,NA,0.08,marine,3
-Mytilaster_solisianus,species,NA,0.08,marine,2
 Cuspidariidae,family,NA,0.04,marine,3
 Tanaidacea,NA,NA,0.01,marine,2
 Microphrys_bicornutus,species,NA,0.01,marine,2
@@ -13,12 +11,7 @@ Bathygobius_soporator,species,NA,0.01,marine,3
 Petaloconchus_sp,genus,NA,0.01,marine,3
 Crassostrea_virginica,species,NA,8.7,marine,3
 Isognomon_bicolor,species,NA,0.01,marine,3
-Tanaidacea,NA,NA,0.01,marine,3
 Renilla_sp,genus,NA,0.01,marine,3
-Polychaeta,class,NA,0.01,marine,3
 Columbellidae,family,NA,0.01,marine,2
 Stramonita_haemastoma,species,NA,0.01,marine,2
-Bathygobius_soporator,species,NA,0.01,marine,2
 Bunodosoma_caissarum,species,NA,11.38,marine,2
-Bunodosoma_caissarum,species,NA,11.38,marine,3
-Renilla_sp,genus,NA,0.01,marine,2

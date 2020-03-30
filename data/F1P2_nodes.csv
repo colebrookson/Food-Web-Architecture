@@ -1,7 +1,6 @@
 consumer,resource,NA,NA,NA,NA
 Sphaeromatidae,family,NA,0.01,marine,2
 Zooplankton,NA,NA,0.001,marine,2
-Zooplankton,NA,NA,0.001,marine,3
 Chthamalus_dentatus,species,NA,0.01,marine,2
 Hymeniacidon_sp.,genus,NA,0.01,marine,2
 Haliclona_sp.,genus,NA,0.01,marine,2
@@ -13,17 +12,11 @@ Orthoprotella_mayeri,species,NA,9e-4,marine,2
 Istigobius_sp.,genus,NA,0.26,marine,2
 Antennablennius_bifilum,species,NA,1.63,marine,2
 Istiblennius_edentulus,species,NA,1.22,marine,2
-Chthamalus_dentatus,species,NA,0.01,marine,3
 Ostracoda,class,NA,0.001,marine,3
 Isaurus_tuberculatus,species,NA,0.01,marine,3
 Bryozoa,NA,NA,0.0299,marine,3
 Holothuria_cinerascens,species,NA,15.98,marine,2
-Musculus_sp.,genus,NA,0.0014,marine,3
-Polychaeta,class,NA,0.0068,marine,3
-Oligochaeta,NA,NA,0.0012,marine,3
-Septifer_bilocularis,species,NA,0.002,marine,3
 Ophiurida,order,NA,0.0027,marine,3
-Istigobius_sp.,genus,NA,0.26,marine,3
 Diplosoma_modestum,species,NA,0.01,marine,3
 Pinnidae,family,NA,0.0476,marine,3
 Dendropoma_tholia,species,NA,0.0013,marine,3
