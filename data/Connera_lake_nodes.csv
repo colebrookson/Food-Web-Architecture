@@ -32,15 +32,4 @@ Daphnia_galeata,species,NA,1e-5,lakes,3
 Daphnia_longiremis,species,NA,1e-5,lakes,3
 Daphnia_retrocurva,species,NA,1e-5,lakes,3
 fish_fry,NA,larvae,0.016,lakes,3
-fish_fry,NA,larvae,0.016,lakes,3
-Perca_flavescens,species,NA,45,lakes,3
-Tropocyclops_prasinus,species,NA,6.85e-6,lakes,3
-Mesocyclops_edax,species,NA,1e-5,lakes,3
-Cyclops_vernalis,species,NA,2.24e-5,lakes,3
 Salvelinus_fontinalis_small,species,NA,64,lakes,3
-Epishura_lacustris,species,NA,1.22e-4,lakes,3
-Salvelinus_fontinalis_large,species,NA,1891,lakes,3
-Fundulus_diaphanus,species,NA,4,lakes,3
-Luxilus_cornutus,species,NA,8.5,lakes,3
-Leptodora_kindtii,species,NA,0.00456,lakes,3
-Notemigonus_crysoleucas,species,NA,10,lakes,3

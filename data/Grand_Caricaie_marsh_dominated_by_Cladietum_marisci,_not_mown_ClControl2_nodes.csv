@@ -162,40 +162,23 @@ Stratiomyidae,family,larvae,0.015096071,lakes,3
 Araneae,NA,NA,0.010881926,terrestrial aboveground,3
 Clubiona_juvenis,species,NA,0.002062384,terrestrial aboveground,3
 Emberiza_schoeniclus,species,NA,20,terrestrial aboveground,2
-Emberiza_schoeniclus,species,NA,20,terrestrial aboveground,3
 Vulpes_vulpes,NA,NA,5000,terrestrial aboveground,2
 Emberiza_schoeniclus,species,NA,20,terrestrial aboveground,NA
-Sympetrum_striolatum,species,NA,0.516113717,terrestrial aboveground,3
-Somatochlora_sp,genus,NA,0.315566673,terrestrial aboveground,3
-Sympetrum_sp,genus,NA,0.244785363,terrestrial aboveground,3
-Sympetrum_vulgatum,species,NA,0.239476765,terrestrial aboveground,3
-Sympetrum_sanguineum,species,NA,0.146281373,terrestrial aboveground,3
 Falco_subbuteo,species,NA,210,terrestrial aboveground,3
 Natrix_natrix,species,NA,100,terrestrial aboveground,2
-Rana_sp,genus,NA,2,terrestrial aboveground,2
-Paravespula_vulgaris,species,NA,0.040663711,terrestrial aboveground,3
 Rana_sp,genus,NA,2,terrestrial aboveground,3
 Colymbetes_fusca,species,NA,0.279789226,lakes,3
 Dolomedes_sp,genus,juveniles,0.106746515,terrestrial aboveground,2
 Natrix_natrix,species,NA,100,terrestrial aboveground,3
-Staphylinidae,family,larvae,0.004707429,terrestrial aboveground,2
-Hebrus_pusillus,species,NA,0.003811513,terrestrial aboveground,2
-Araneae,NA,NA,0.010881926,terrestrial aboveground,3
 Tibellus_sp,genus,juveniles,0.022005673,terrestrial aboveground,2
 Arctosa_sp,genus,juveniles,0.015891067,terrestrial aboveground,2
 Sympetrum_striolatum,species,NA,0.516113717,terrestrial aboveground,2
 Paravespula_vulgaris,species,NA,0.040663711,terrestrial aboveground,2
-Lycosidae,family,NA,0.012851037,terrestrial aboveground,2
-Tibellus_sp,genus,NA,0.01495833,terrestrial aboveground,2
 Larinioides_cornutus,species,NA,0.036964004,terrestrial aboveground,3
-Pirata_piraticus,species,NA,0.011227384,terrestrial aboveground,2
-Sitticus_caricis,species,NA,0.003357852,terrestrial aboveground,2
 Pisaura_mirabilis,species,juveniles,0.010709197,terrestrial aboveground,2
 Larinioides_sp,genus,juveniles,0.01126193,terrestrial aboveground,3
 Tibellus_sp,genus,juveniles,0.022005673,terrestrial aboveground,NA
-Gerris_sp,genus,NA,0.010322274,terrestrial aboveground,2
 Somatochlora_sp,genus,NA,0.315566673,terrestrial aboveground,2
-Salticidae,family,NA,0.007980079,terrestrial aboveground,2
 Sympetrum_sp,genus,NA,0.244785363,terrestrial aboveground,2
 Colymbetes_fusca,species,NA,0.279789226,lakes,2
 Sympetrum_vulgatum,species,NA,0.239476765,terrestrial aboveground,2
@@ -207,19 +190,13 @@ Larinioides_sp,genus,juveniles,0.01126193,terrestrial aboveground,NA
 Pirata_piraticus,species,NA,0.011227384,terrestrial aboveground,NA
 Pisaura_mirabilis,species,juveniles,0.010709197,terrestrial aboveground,NA
 Clubiona_sp,genus,juveniles,9.60373e-4,terrestrial aboveground,2
-Phlaeothripidae,family,NA,5.89844e-4,terrestrial aboveground,NA
 Sympetrum_sanguineum,species,NA,0.146281373,terrestrial aboveground,2
 Salticidae,family,NA,0.007980079,terrestrial aboveground,NA
 Thanatus_sp,genus,juveniles,6.90916e-4,terrestrial aboveground,2
-Clubiona_juvenis,species,NA,0.002062384,terrestrial aboveground,2
-Paederus_riparius,species,NA,0.002454292,terrestrial aboveground,2
-Ephydridae,family,NA,5.31552e-4,terrestrial aboveground,3
-Hybotidae,family,NA,4.57135e-4,terrestrial aboveground,3
 Staphylinidae,family,larvae,0.004707429,terrestrial aboveground,NA
 Mangora_acalypha,species,juveniles,3.45458e-4,terrestrial aboveground,3
 Staphylinidae,family,NA,0.004707429,terrestrial aboveground,2
 Pirata_sp,genus,juveniles,0.002193658,terrestrial aboveground,2
-Chartoscirta_cincta,species,NA,0.003884811,terrestrial aboveground,2
 Antistea_elegans,species,NA,0.001744563,terrestrial aboveground,3
 Paederus_riparius,species,NA,0.002454292,terrestrial aboveground,NA
 Pardosa_sp,genus,juveniles,0.001492379,terrestrial aboveground,2
@@ -230,13 +207,10 @@ Theridiidae,family,juveniles,6.90916e-4,terrestrial aboveground,3
 Polyhydrus_lineatus,species,NA,0.001963433,lakes,3
 Thomisidae,family,juveniles,0.001381832,terrestrial aboveground,NA
 Pardosa_sp,genus,NA,0.001492379,terrestrial aboveground,2
-Hypostenus_latifrons,species,NA,4.90858e-4,terrestrial aboveground,2
 Gnathonarium_dentatum,species,NA,7.49644e-4,terrestrial aboveground,3
 Theridion_sp,genus,juveniles,9.64e-5,terrestrial aboveground,3
 Thanatus_sp,genus,juveniles,6.90916e-4,terrestrial aboveground,NA
-Acari_pred,species,NA,3.45e-5,terrestrial aboveground,2
 Bathyphantes_setiger,species,NA,7.7728e-4,terrestrial aboveground,3
-Stilicus_rufipes,species,NA,2.45429e-4,terrestrial aboveground,2
 Theridiidae,family,NA,6.90916e-4,terrestrial aboveground,3
 Hypostenus_latifrons,species,NA,4.90858e-4,terrestrial aboveground,NA
 Bidessus_unistriatus,species,NA,4.90858e-4,lakes,3
@@ -245,5 +219,4 @@ Araneidae,family,juveniles,3.45e-5,terrestrial aboveground,3
 Mangora_acalypha,species,juveniles,3.45458e-4,terrestrial aboveground,NA
 Antistea_elegans,species,NA,3.45458e-4,terrestrial aboveground,3
 Stilicus_rufipes,species,NA,2.45429e-4,terrestrial aboveground,NA
-Odacantha_melanura,species,NA,0.009449022,terrestrial aboveground,2
 Antistea_elegans,species,juveniles,3.45458e-4,terrestrial aboveground,3

@@ -17,7 +17,6 @@ Amphilochidae,family,NA,8e-4,marine,2
 Amphitoidae,family,NA,8e-4,marine,3
 Amphitoidae,family,NA,8e-4,marine,2
 Nemertea,NA,NA,5e-4,marine,2
-Zooplankton,NA,NA,0.001,marine,3
 Palythoa_nelliae,species,NA,101.25,marine,3
 Isaurus_tuberculatus,species,NA,0.01,marine,3
 Bryozoa,NA,NA,0.0274,marine,3
@@ -26,14 +25,5 @@ Polychaeta,class,NA,0.0172,marine,3
 Oligochaeta,NA,NA,0.003,marine,3
 Ophiurida,order,NA,0.0029,marine,3
 Acanthonyx_quadridentatus,species,NA,0.127,marine,2
-Nassariidae,family,NA,0.01,marine,2
 Diodora_sp.,genus,NA,0.0274,marine,2
-Epitoniidae,family,NA,0.0056,marine,2
-Thalessa_savignyi,species,NA,0.81,marine,2
-Polychaeta,class,NA,0.0172,marine,2
-Amphitoidae,family,NA,8e-4,marine,2
-Helcogramma_obtusirostris,species,NA,0.74,marine,2
-Oligochaeta,NA,NA,0.003,marine,2
-Amphilochidae,family,NA,8e-4,marine,3
-Amphitoidae,family,NA,8e-4,marine,3
 Anemonia_natalensis,species,NA,0.0069,marine,3

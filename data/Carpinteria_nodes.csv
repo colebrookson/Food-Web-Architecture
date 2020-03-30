@@ -197,18 +197,15 @@ Pluvialis_squatarola,species,adults,225.5,terrestrial aboveground,NA
 Limosa_fedoa,species,adults,367.5,terrestrial aboveground,2
 Recurvirostra_americana,species,adults,304.3,terrestrial aboveground,2
 Tringa_melanoleuca,species,adults,165,terrestrial aboveground,NA
-Fulica_americana,species,adults,650,terrestrial aboveground,2
 Catoptrophorus_semipalmatus,species,adults,270,terrestrial aboveground,2
 Pluvialis_squatarola,species,adults,225.5,terrestrial aboveground,2
 Limnodromus_scilopaceus,species,adults,104.5,terrestrial aboveground,NA
 Podilymbus_podiceps,species,adults,416,terrestrial aboveground,2
 Bucephala_albeola,species,adults,401,terrestrial aboveground,2
 Tringa_melanoleuca,species,adults,165,terrestrial aboveground,2
-Polydora_nuchalis,species,adults,0.00323541,terrestrial aboveground,NA
 Limnodromus_scilopaceus,species,adults,104.5,terrestrial aboveground,2
 Calidris_alpina,species,adults,51.45,terrestrial aboveground,NA
 Egretta_thula,species,adults,369,terrestrial aboveground,3
-Charadrius_vociferus,species,adults,95,terrestrial aboveground,2
 Actitis_macularia,species,adults,44.1,terrestrial aboveground,NA
 Egretta_caerulea,species,adults,340,terrestrial aboveground,3
 Recurvirostra_americana,species,adults,304.3,terrestrial aboveground,3
@@ -227,21 +224,16 @@ Leptocottus_armatus,species,adults,28.5679949,marine,2
 Paralichthys_californicus,species,adults,35.3681077,marine,2
 Acanthogobius_flavimanus,species,adults,26.9388716,marine,2
 Gillichthys_mirabilis,species,adults,19.4152654,marine,2
-Gillichthys_mirabilis,species,adults,19.4152654,marine,3
 Hypsopsetta_guttulata,species,adults,24.6492672,marine,2
 Procyon_locator,species,adults,6000,terrestrial aboveground,2
 Charadrius_semipalmatus,species,adults,46.95,terrestrial aboveground,3
-Actitis_macularia,species,adults,44.1,terrestrial aboveground,3
-Pachygrapsus_crassipes,species,adults,8.2920462,terrestrial aboveground,2
 Triakis_semifasciata,species,adults,1314.95447,marine,3
 Aechmophorus_occidentalis,species,adults,1314,terrestrial aboveground,2
 Mergus_serrator,species,adults,1040.5,terrestrial aboveground,2
 Egretta_alba,species,adults,873.5,terrestrial aboveground,2
 Nycticorax_nycticorax,species,adults,869.6,terrestrial aboveground,2
-Calidris_mauri,species,adults,24.2,terrestrial aboveground,3
 Procyon_locator,species,adults,6000,terrestrial aboveground,3
 Numenius_americanus,species,adults,754.5,terrestrial aboveground,2
-Calidris_minutilla,species,adults,20.9,terrestrial aboveground,3
 Sterna_caspia,species,adults,655.5,terrestrial aboveground,2
 Numenius_phaeopus,species,adults,404,terrestrial aboveground,2
 Larus_californicus,species,adults,738,terrestrial aboveground,2
@@ -253,7 +245,6 @@ Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground,NA
 Egretta_caerulea,species,adults,340,terrestrial aboveground,2
 Cymatogaster_aggregata,species,adults,3.67831145,marine,2
 Butorides_virescens,species,adults,241,terrestrial aboveground,2
-Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground,2
 Larus_delawarensis,species,adults,518.5,terrestrial aboveground,2
 Fundulus_parvipinnis,species,adults,0.50501708,marine,NA
 Larus_canus,species,adults,480,terrestrial aboveground,2
@@ -261,21 +252,12 @@ Urolophus_halleri,species,adults,467.2,marine,2
 Corvus_brachyrhynchos,species,adults,399.5,terrestrial aboveground,2
 Ceryle_alcyon,species,adults,147.6,terrestrial aboveground,2
 Fundulus_parvipinnis,species,adults,0.50501708,marine,2
-Fundulus_parvipinnis,species,adults,0.50501708,marine,3
 Larus_philadelphia,species,adults,211.25,terrestrial aboveground,2
 Hemigrapsus_oregonensis,species,adults,1.16850119,terrestrial aboveground,3
-Paralichthys_californicus,species,adults,35.3681077,marine,3
-Clevelandia_ios,species,adults,0.3380892,marine,3
-Leptocottus_armatus,species,adults,28.5679949,marine,3
-Acanthogobius_flavimanus,species,adults,26.9388716,marine,3
 Clevelandia_ios,species,adults,0.3380892,marine,2
-Hypsopsetta_guttulata,species,adults,24.6492672,marine,3
 Accipiter_cooperi,species,adults,360,terrestrial aboveground,3
 Charadrius_semipalmatus,species,adults,46.95,terrestrial aboveground,2
-Pardosa_sp.,genus,adults,0.01040481,terrestrial aboveground,2
 Carinoma_mutabilis,species,adults,0.00192876,terrestrial aboveground,NA
-Nemertean,NA,adults,0.00162242,terrestrial aboveground,NA
-Carinoma_mutabilis,species,adults,0.00192876,terrestrial aboveground,2
 Foraminifera,NA,adults,2.43e-5,marine,NA
 Capitella_capitata,species,larvae,3.37e-5,marine,NA
 Polydora_nuchalis,species,larvae,3.37e-5,marine,NA
@@ -288,13 +270,11 @@ Cerithidea_californica,species,adults,1.2137299,terrestrial aboveground,NA
 Cyclopoida,order,adults,8.28e-6,terrestrial aboveground,NA
 Ephydra,NA,adults,0.03373598,terrestrial aboveground,NA
 green_gammaridean,NA,adults,0.00461043,terrestrial aboveground,NA
-green_gammaridean,NA,adults,0.00461043,terrestrial aboveground,2
 Ostracoda,Class,adults,3.61e-5,marine,NA
 Trichocorixia_sp.,genus,adults,0.00360519,marine,NA
 Ephydra,genus,larvae,0.0449813,marine,NA
 Neotrypaea_californiensis,species,adults,4.74904783,marine,NA
 Uca_crenulata,species,adults,1.86130374,terrestrial aboveground,NA
-Uca_crenulata,species,adults,1.86130374,terrestrial aboveground,2
 Acanthogobius_flavimanus,species,adults,26.9388716,marine,NA
 Atherinops_affinis,species,adults,2.59261677,marine,2
 Clevelandia_ios,species,adults,0.3380892,marine,NA
@@ -317,10 +297,8 @@ Nuttallia_nuttallii,species,adults,44.6619368,terrestrial aboveground,3
 Upogebia_macginitieorum,species,adults,8.1941841,marine,2
 Macoma_secta,species,adults,26.0738713,terrestrial aboveground,3
 Tagelus_californianus,species,adults,20.0794771,terrestrial aboveground,3
-Anas_platyrhynchos,species,adults,1186.5,terrestrial aboveground,2
 Oxyura_jamaicensis,species,adults,560,terrestrial aboveground,NA
 Anas_americana,species,adults,780,terrestrial aboveground,2
-Upogebia_macginitieorum,species,adults,8.1941841,marine,3
 Tagelus_affinis,species,adults,6.5695182,terrestrial aboveground,3
 Anas_discors,species,adults,364,terrestrial aboveground,2
 Anas_cyanoptera,species,adults,359,terrestrial aboveground,2
@@ -340,4 +318,3 @@ Anas_discors,species,adults,364,terrestrial aboveground,NA
 Anas_cyanoptera,species,adults,359,terrestrial aboveground,NA
 Anas_crecca,species,adults,338,terrestrial aboveground,NA
 Anas_platyrhynchos,species,adults,1186.5,terrestrial aboveground,NA
-Atherinops_affinis,species,adults,2.59261677,marine,3

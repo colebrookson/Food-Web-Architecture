@@ -20,7 +20,6 @@ Charybdis_natator,species,NA,42.06,marine,2
 Cirolanidae,family,NA,7e-4,marine,3
 Cirolanidae,family,NA,7e-4,marine,2
 Chthamalus_dentatus,species,NA,0.01,marine,3
-Zooplankton,NA,NA,0.001,marine,3
 Palythoa_nelliae,species,NA,474.8,marine,3
 Isaurus_tuberculatus,species,NA,0.01,marine,3
 Bryozoa,NA,NA,0.0121,marine,3
@@ -30,18 +29,10 @@ Oligochaeta,NA,NA,0.0035,marine,3
 Ophiurida,order,NA,0.0255,marine,3
 Diplosoma_modestum,species,NA,0.01,marine,3
 Acanthonyx_quadridentatus,species,NA,0.01,marine,2
-Menaethius_monoceros,species,NA,0.002,marine,2
 Perna_perna,species,NA,5e-4,marine,3
-Cirolanidae,family,NA,7e-4,marine,3
 Helcogramma_obtusirostris,species,NA,0.81,marine,2
-Thalessa_savignyi,species,NA,0.0061,marine,2
 Charybdis_natator,species,NA,42.06,marine,3
-Mitridae,species,NA,0.0026,marine,2
 Anemonia_natalensis,species,NA,0.0036,marine,2
-Polychaeta,class,NA,0.0048,marine,2
 Ophiurida,order,NA,0.0255,marine,2
-Oligochaeta,NA,NA,0.0035,marine,2
-Amphilochidae,family,NA,0.0011,marine,3
 Anemonia_natalensis,species,NA,0.0036,marine,3
 Platyhelminthes,NA,NA,0.01,marine,2
-Charybdis_natator,species,NA,42.06,marine,2

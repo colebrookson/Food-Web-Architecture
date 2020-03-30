@@ -100,19 +100,19 @@ get_edges_and_nodes = function(all_webs){
 
 webs_nodes_and_edges = get_edges_and_nodes(all_webs = all_webs)
 
-##### write all dataframes out for easy access in python
-# for(i in 1:length(webs_nodes_and_edges)) {
-#   for(j in 1:2) {
-#     
-#     path = paste0(dir, '/', names(webs_nodes_and_edges[[i]][j]), '.csv') #get write path
-#     
-#     temp = data.frame(webs_nodes_and_edges[[i]][j]) #make temp dataframe for writing
-#     
-#     colnames(temp) = c('consumer', 'resource') #reassign column names
-#     
-#     write_csv(temp, path = path) #write file
-#   }
-# }
+#### write all dataframes out for easy access in python
+for(i in 1:length(webs_nodes_and_edges)) {
+  for(j in 1:2) {
+
+    path = paste0(dir, '/', names(webs_nodes_and_edges[[i]][j]), '.csv') #get write path
+
+    temp = data.frame(webs_nodes_and_edges[[i]][j]) #make temp dataframe for writing
+
+    colnames(temp) = c('consumer', 'resource') #reassign column names
+
+    write_csv(temp, path = path) #write file
+  }
+}
 
 ##### calculate metrics for all the webs
 
